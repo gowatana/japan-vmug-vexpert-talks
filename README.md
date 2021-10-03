@@ -6,6 +6,7 @@
 
 Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会」を定期的に開催しています。
 * 会名のとおり、vExpert をお呼びして話を聞きたい。
+  - VMware vExpert については [こちら](https://vexpert.vmware.com/) 。
 * 所属組織を越えたvExpertのコミュニティ活動の場をつくりたい。
 * 「これからvEを目指したい人」にも登壇機会を提供したい。
 * vExpert Pro(moter) とは、vExpert のメンター的な役割を担当しています。
