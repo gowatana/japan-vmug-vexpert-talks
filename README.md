@@ -221,7 +221,7 @@ Japan VMUG 史上初の大変貴重なセッションになります。お見逃
 
 ### Session Speakers
 * Naruhide Tonesaku (元 vExpert)
-  - ゼロトラスト・アーキテクチャーとVMware [[Recording★]()]
+  - ゼロトラスト・アーキテクチャーとVMware
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
   - Carbon Black 入門レポ [[Recording](https://www.youtube.com/watch?v=O2UYpvDwyD4)]
 * [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
