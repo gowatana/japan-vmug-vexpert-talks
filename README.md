@@ -46,7 +46,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
-## #10. 2021年10月12日（火）18:00 - 20:00
+## #10. 2021年10月12日（火）18:00 - 20:00 [[Event Page](https://my.vmug.com/s/community-event?id=a1Y4x00000022Z3EAI)]
 
 Japan vExpert EUC が語る！ - Digital Workspaceの魅力
 
@@ -60,7 +60,8 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
     - Workspace ONEとか、Anywhere Workspaceの概要
     - (できれば)vmworld 2021アップデート情報
 * [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
-  - TBA
+  - ただのMDMエージェントじゃない！  
+    Workspace ONE Intelligent Hubでできるコト
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
   - Workspace ONE Intelligenceってなんだ？
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
