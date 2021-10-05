@@ -77,7 +77,7 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
 
 
 ---
-## #09. 2021年9月29日（水）18:00 - 20:00
+## #09. 2021年9月29日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArscQ-LCMMIaBFmfVxbI0mT-)]
 
 すっかり秋の気配を感じるようになり、2021年も残すところ4ヶ月を切りました。  
 今回の vExpert を目指す枠では武田さんから VMC on AWS のサービス連携ネタを、  
@@ -90,10 +90,10 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
 ### Session Speakers
 
 * Koichi Takeda (vExpertをめざす人 枠)
-  - VMware Cloud on AWS と相性抜群、AWS ネイティブサービス連携
+  - VMware Cloud on AWS と相性抜群、AWS ネイティブサービス連携 [[Recording](https://www.youtube.com/watch?v=9N2O2nNTGHo)]
 * [Eri Teshima](https://vexpert.vmware.com/directory/7439)
-  - Tanzu Kubernetes Grid 1.4 - 新機能インストールにトライ
-* vExpert パネル 「2021年の振り返りと vExpert 2022に向けて」
+  - Tanzu Kubernetes Grid 1.4 - 新機能インストールにトライ [[Recording](https://www.youtube.com/watch?v=7-KjJ771UNY)]
+* vExpert パネル 「2021年の振り返りと vExpert 2022に向けて」 [[Recording](https://www.youtube.com/watch?v=sjvqTuozlak)]
   - [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
   - [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
   - [Go Watanabe](https://vexpert.vmware.com/directory/521)
@@ -103,7 +103,7 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
 
 
 ---
-## #08. 2021年7月28日（水）18:00 - 20:00
+## #08. 2021年7月28日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvNBwlbhpcDBK5GhD7SoFBs)]
 
 今回のテーマは「クラウド VDI 」。  
 前回の EUC/VDI の流れから、さらにクラウドまで踏み込んだトークに期待してください！  
@@ -125,7 +125,7 @@ VCP 取得を目指す方も必見です。奮ってご参加ください！
 
 
 ---
-## #07. 2021年6月23日（水）18:00 - 20:00
+## #07. 2021年6月23日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsWaooceEFCvEf2Wix1fQWP)]
 
 今回はテーマを絞り、EUC/VDI について語ってもらいます。  
 前回に引き続き、vExpert を目指す方にもセッション枠を確保しています。  
@@ -149,7 +149,7 @@ VCP 取得を目指す方も必見です。奮ってご参加ください！
 
 
 ---
-## #06. 2021年5月19日（水）18:00 - 20:00
+## #06. 2021年5月19日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsEG90IF0fLTTTs8lGAHZ_E)]
 
 今回も特定テーマは決めず、セッションスピーカーの vExpert にそれぞれ得意な分野を語ってもらいます。  
 また、新しい試みとして、これから vExpert を目指す方にもセッション枠を確保していきます。  
