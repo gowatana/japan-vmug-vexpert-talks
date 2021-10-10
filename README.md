@@ -1,5 +1,7 @@
 # Japan VMUG「vExpert が語る」
 
+![top](./files/top-image.png)
+
 # 1. Overview
 
 ## 企画について
