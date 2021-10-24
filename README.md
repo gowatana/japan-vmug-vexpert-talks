@@ -48,7 +48,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
-## #10. 2021年10月12日（火）18:00 - 20:00 [[Event Page](https://my.vmug.com/s/community-event?id=a1Y4x00000022Z3EAI)]
+## #10. 2021年10月12日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruDtl_dGE-g6wf71Ke8mfDj)]
 
 Japan vExpert EUC が語る！ - Digital Workspaceの魅力
 
@@ -58,19 +58,16 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
 
 ### Session Speakers
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - VMwareのDigital Workspaceってなに？
-    - Workspace ONEとか、Anywhere Workspaceの概要
-    - (できれば)vmworld 2021アップデート情報
+  - VMwareの「Digital Workspace」ってなんだ？ [[Recording](https://www.youtube.com/watch?v=lxoXP5JcCBw)]
 * [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
-  - ただのMDMエージェントじゃない！  
-    Workspace ONE Intelligent Hubでできるコト
+  - タダのMDMエージェントじゃない！ Intelligent Hubで出来るコト [[Recording](https://www.youtube.com/watch?v=jPr2egDa0GI)]
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
-  - Workspace ONE Intelligenceってなんだ？
+  - Workspace ONE Intelligenceってなんだ？ ～TestDriveを覗いてみよう～ [[Recording](https://www.youtube.com/watch?v=FA8qYuxqJDI)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
-  - 【NO炎上】WS1導入プロジェクトの進め方
+  - 【NO炎上】 WS1導入プロジェクトの進め方 [[Recording](https://www.youtube.com/watch?v=04t-Ihu9EFQ)]
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
-  - しくじりvExpert 俺みたいになるな！！  
-    Workspace ONEとか知らないのにVMware SASEを試しちゃったvExpertのお話。
+  - しくじり先生 俺みたいになるな！！  
+    Workspace ONEとか知らないのにVMware SASEを試しちゃったvExpertのお話。 [[Recording](https://www.youtube.com/watch?v=u_QpfJXbBtU)]
 
 ### Moderators
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
