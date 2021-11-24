@@ -48,6 +48,28 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
+## #11. 2021年11月22日（月）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtFRVRpxMZAXfAyspIv3fFP)]
+
+お待たせしました！第11回目のvExpertが語る会を開催します。  
+今回のテーマはVMware Hands-on Labs、通称「HOL」。  
+「HOL」ってなんだろう？どうやって活用してるの？などなど、みなさまの疑問にHOLの猛者がお答えします。  
+また、Japan VMworld期間中に開催されるOdysseyに向けたアドバイスなど、盛りだくさんのコンテンツでお届けします。  
+是非ご参加ください！
+
+### Session Speakers
+* [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
+  - What is VMware Hands on Lab ? [[Recording](https://www.youtube.com/watch?v=Jm_kjO78M7E)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - From vWarrior to Odyssey [[Recording](https://www.youtube.com/watch?v=LH741SRaPwo)]
+* [Minoru HOMMA](https://vexpert.vmware.com/directory/4948)
+  - Odysseyで使えるTips紹介 [[Recording](https://www.youtube.com/watch?v=qayhlncWbMs)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - おすすめ HOL と、HOL を使ったデモ  
+    NSX-T タグによる仮想マシン通信の遮断 [[Recording](https://www.youtube.com/watch?v=vsuMcBxZ6-g)]
+
+### Moderators
+* Atsushi Kimura
+
 ## #10. 2021年10月12日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruDtl_dGE-g6wf71Ke8mfDj)]
 
 Japan vExpert EUC が語る！ - Digital Workspaceの魅力
