@@ -48,6 +48,35 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
+## #12. 2022年02月09日（水）18:00 - 20:00 [[Event Page](https://my.vmug.com/s/community-event?id=a1Y4x00000025VGEAY&fbclid)]
+
+2022 年もどうぞよろしくお願いいたします！  
+vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみなさまからお話しいただきます。  
+* ブログのテーマ
+* ブログを始めたきっかけ
+* ネタの探し方
+* 記事を書くときのポイント
+
+などなど、新規でブログを始めてみたいというみなさまにとっても、Expert の知恵やコツを学べる良い機会になること間違いなし！  
+また、毎年恒例の [vExperts Advent Calendar 2021](https://adventar.org/calendars/6689) 参加者からの LT も企画しています。  
+みなさま、奮ってご参加ください！
+
+### Session Speakers
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - Blog: https://imaisato.hatenablog.jp/category/vExpert
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - Blog: https://kwmtlog.blogspot.com/
+* [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
+  - Blog: https://lab8010.com/
+
+### vExperts Advent Calendar 2021 LT
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - Blog: https://vm.gowatana.jp/
+* TBA
+
+### Moderators
+* Atsushi Kimura
+
 ## #11. 2021年11月22日（月）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtFRVRpxMZAXfAyspIv3fFP)]
 
 お待たせしました！第11回目のvExpertが語る会を開催します。  
