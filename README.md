@@ -58,7 +58,7 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
 * 記事を書くときのポイント
 
 などなど、新規でブログを始めてみたいというみなさまにとっても、Expert の知恵やコツを学べる良い機会になること間違いなし！  
-また、毎年恒例の [vExperts Advent Calendar 2021](https://adventar.org/calendars/6689) 参加者からの LT も企画しています。  
+また、毎年恒例の [vExperts Advent Calendar 2021](https://adventar.org/calendars/6689) 参加者からの LT（Lightning Talks）も企画しています。  
 みなさま、奮ってご参加ください！
 
 ### Session Speakers
@@ -72,7 +72,14 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
 ### vExperts Advent Calendar 2021 LT
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - Blog: https://vm.gowatana.jp/
-* TBA
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - Blog: https://vhoge.hateblo.jp/
+* [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
+  - Blog: https://mt9276.hatenablog.com/
+* [Seiji Maeda](https://vexpert.vmware.com/directory/3087)
+  - Blog: https://pandarin4.hateblo.jp/
+* [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
+  - Blog: https://blog.tcpninja.net/
 
 ### Moderators
 * Atsushi Kimura
