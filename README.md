@@ -48,7 +48,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
-## #12. 2022年02月09日（水）18:00 - 20:00 [[Event Page](https://my.vmug.com/s/community-event?id=a1Y4x00000025VGEAY&fbclid)]
+## #12. 2022年02月09日（水）18:00 - 20:00  [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruwbtlD4XwvH-wF-ZmV8WBE)]
 
 2022 年もどうぞよろしくお願いいたします！  
 vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみなさまからお話しいただきます。  
@@ -64,22 +64,31 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
 ### Session Speakers
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
   - Blog: https://imaisato.hatenablog.jp/category/vExpert
+  - vExpertが語る「Blog」 [Recording]
 * [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
   - Blog: https://kwmtlog.blogspot.com/
+  - BlogとCommunity  
+    情けは人の為ならず [[Recording](https://www.youtube.com/watch?v=BfcSLI-oDK8)]
 * [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
   - Blog: https://lab8010.com/
+  - ブログを始めたい人へ伝えたいこと [[Recording](https://www.youtube.com/watch?v=Np-1l4IaLcE)]
 
 ### vExperts Advent Calendar 2021 LT
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - Blog: https://vm.gowatana.jp/
+  - LT#1 [[Recording](https://www.youtube.com/watch?v=15IEde3uC8A)]
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
   - Blog: https://vhoge.hateblo.jp/
+  - LT#2 vExpertが使う「Blog」 [[Recording](https://www.youtube.com/watch?v=oSvyvXPBKbM)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
   - Blog: https://mt9276.hatenablog.com/
+  - LT#3 vExpert Blogネタ [[Recording](https://www.youtube.com/watch?v=stWHiN-wcqY)]
 * [Seiji Maeda](https://vexpert.vmware.com/directory/3087)
   - Blog: https://pandarin4.hateblo.jp/
+  - LT#4 [[Recording](https://www.youtube.com/watch?v=OnnEaUGQoCA)]
 * [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
   - Blog: https://blog.tcpninja.net/
+  - LT#5 [[Recording](https://www.youtube.com/watch?v=9U1wC77W9ZI)]
 
 ### Moderators
 * Atsushi Kimura
