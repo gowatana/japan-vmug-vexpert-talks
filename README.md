@@ -64,7 +64,7 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
 ### Session Speakers
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
   - Blog: https://imaisato.hatenablog.jp/category/vExpert
-  - vExpertが語る「Blog」 [Recording]
+  - vExpertが語る「Blog」 [[Recording](https://www.youtube.com/watch?v=HJBeXRBIsTo)]
 * [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
   - Blog: https://kwmtlog.blogspot.com/
   - BlogとCommunity  
