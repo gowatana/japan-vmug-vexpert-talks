@@ -39,8 +39,9 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - VMTN User Moderator(Japanese Forum), Blogger, Japan VMUG Member
   - vExpert (NSX, Application Modernization, Avi)
-* Atsushi Kimura (メイン司会担当)
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813) (メイン司会担当)
   - Japan VMUG Member
+  - vExpert
 
 ---
 # 2. Events
@@ -91,7 +92,7 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
   - LT#5 [[Recording](https://www.youtube.com/watch?v=9U1wC77W9ZI)]
 
 ### Moderators
-* Atsushi Kimura
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 
 ## #11. 2021年11月22日（月）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtFRVRpxMZAXfAyspIv3fFP)]
 
@@ -113,7 +114,7 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
     NSX-T タグによる仮想マシン通信の遮断 [[Recording](https://www.youtube.com/watch?v=vsuMcBxZ6-g)]
 
 ### Moderators
-* Atsushi Kimura
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 
 ## #10. 2021年10月12日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruDtl_dGE-g6wf71Ke8mfDj)]
 
@@ -155,7 +156,7 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
 
 ### Session Speakers
 
-* Koichi Takeda (vExpertをめざす人 枠)
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898) (vExpertをめざす人 枠)
   - VMware Cloud on AWS と相性抜群、AWS ネイティブサービス連携 [[Recording](https://www.youtube.com/watch?v=9N2O2nNTGHo)]
 * [Eri Teshima](https://vexpert.vmware.com/directory/7439)
   - Tanzu Kubernetes Grid 1.4 - 新機能インストールにトライ [[Recording](https://www.youtube.com/watch?v=7-KjJ771UNY)]
@@ -165,7 +166,7 @@ Horizonだけではない、VMwareのEUCソリューションの魅力を、vExp
   - [Go Watanabe](https://vexpert.vmware.com/directory/521)
 
 ### Moderators
-* Atsushi Kimura
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 
 
 ---
@@ -185,7 +186,7 @@ VCP 取得を目指す方も必見です。奮ってご参加ください！
   - VMware 製品好きな一個人が、書籍執筆に至ったまでの話 [[Recording](https://www.youtube.com/watch?v=RvOQh7UP-SE)]
 
 ### Moderators
-* Atsushi Kimura
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
@@ -206,7 +207,7 @@ VCP 取得を目指す方も必見です。奮ってご参加ください！
   - 流行りのSASE（さっしー）をVMwareがやるとどうなるのか調べてみた [[Recording](https://www.youtube.com/watch?v=c1BHplirabo)]
 
 ### Moderators
-* Atsushi Kimura
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
 * [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
 
@@ -224,7 +225,7 @@ VCP 取得を目指す方も必見です。奮ってご参加ください！
 ### Session Speakers
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
   - 今度こそ災害対策をあきらめない！ VMware Cloud Disaster Recovery でどこまでできるのかやってみた [[Recording](https://www.youtube.com/watch?v=KfaSB8Hx698)]
-* Atsushi Kimura (vExpertをめざす人 枠)
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813) (vExpertをめざす人 枠)
   - vExpert じゃなくても語る [[Recording](https://www.youtube.com/watch?v=CVuiGo5nJg4)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
   - こんな私でも vExpert になれました！ [[Recording](https://www.youtube.com/watch?v=cVP6Uq4-p60)]
