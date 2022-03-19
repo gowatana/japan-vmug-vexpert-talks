@@ -49,9 +49,31 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
-## #12. 2022年02月09日（水）18:00 - 20:00  [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruwbtlD4XwvH-wF-ZmV8WBE)]
+## #13. 2022年03月16日（水）18:00 - 20:00  [[Recording Playlist 準備中](URL)]
+2月16日に2022年の vExpert アワードが発表され、日本の vExpert は 91 人となりました！  
+この「vExpert が語る会」に参加していただいた方々からも新規受賞者が複数出たこともあり、  
+今回は「伝え方・育て方」をテーマに開催したいと思います。  
+社内での後進育成のみならず、スキルや経験を現場でどう伝えていくのか、  
+そしてそれらが間接的に健全なコミュニティの発展に寄与していくと期待して、  
+第一線で活躍するみなさまに語っていただきます。  
+また、自由テーマでの LT 参加も大歓迎です。ご参加お待ちしています！
 
-2022 年もどうぞよろしくお願いいたします！  
+### Session Speakers
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - 親切丁寧な説明会よりも解りやすいマニュアルのほうが結果的に良かった件 [[Recording 準備中](URL)]
+* [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
+  - 新米エンジニア育成に役立つテクニック集 [[Recording 準備中](URL)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - 新しい同僚に伝える vSphere（運用編） [[Recording](https://www.youtube.com/watch?v=cMExythekDI)]
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
+  - Lightning Talk "新米 vExpert 2022 の意気込み" と "後輩に伝えていること" [[Recording](https://www.youtube.com/watch?v=vU76Mbo3eak)]
+
+### Moderators
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+## #12. 2022年02月09日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruwbtlD4XwvH-wF-ZmV8WBE)]
+
+2022年もどうぞよろしくお願いいたします！  
 vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみなさまからお話しいただきます。  
 * ブログのテーマ
 * ブログを始めたきっかけ
