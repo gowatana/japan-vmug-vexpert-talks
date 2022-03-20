@@ -62,7 +62,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
   - 親切丁寧な説明会よりも解りやすいマニュアルのほうが結果的に良かった件 [[Recording 準備中](URL)]
 * [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
-  - 新米エンジニア育成に役立つテクニック集 [[Recording 準備中](URL)]
+  - 新米エンジニア育成に役立つテクニック集 [[Recording](https://www.youtube.com/watch?v=6pJHQKHFraw)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - 新しい同僚に伝える vSphere（運用編） [[Recording](https://www.youtube.com/watch?v=cMExythekDI)]
 * [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
