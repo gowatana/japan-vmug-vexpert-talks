@@ -28,7 +28,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * 録画は [Youtubeチャネル](https://www.youtube.com/channel/UCigY5fIsNIy4BbmlTlV_Y-A) で公開（任意）
 
 
-## Moderators
+## Organizers / Moderators
 
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
   - Japan VMUG Leader
@@ -49,6 +49,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
+---
 ## #13. 2022年03月16日（水）18:00 - 20:00  [[Recording Playlist 準備中](URL)]
 2月16日に2022年の vExpert アワードが発表され、日本の vExpert は 91 人となりました！  
 この「vExpert が語る会」に参加していただいた方々からも新規受賞者が複数出たこともあり、  
@@ -71,6 +72,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ### Moderators
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
+---
 ## #12. 2022年02月09日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruwbtlD4XwvH-wF-ZmV8WBE)]
 
 2022年もどうぞよろしくお願いいたします！  
@@ -116,6 +118,7 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 
+---
 ## #11. 2021年11月22日（月）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtFRVRpxMZAXfAyspIv3fFP)]
 
 お待たせしました！第11回目のvExpertが語る会を開催します。  
@@ -138,6 +141,7 @@ vExpert が語る 第 12 回は、Blog をテーマに、著名 Blogger のみ�
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 
+---
 ## #10. 2021年10月12日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruDtl_dGE-g6wf71Ke8mfDj)]
 
 Japan vExpert EUC が語る！ - Digital Workspaceの魅力
@@ -362,4 +366,5 @@ vExpert 2nd Half の申請が終了し、日本からも新たに4人の方が�
 * [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
+---
 EOF
