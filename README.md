@@ -50,7 +50,28 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #13. 2022年03月16日（水）18:00 - 20:00  [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs_zE24jQLNK0bhwinabXKi)]
+## #14. 2022年04月20日（水）18:00 - 20:00 [[Japan VMUG Event Page](https://my.vmug.com/s/community-event?id=a1Y4x0000002AOXEA2)]
+2022年の vExpert サブプログラム受賞者の発表にあわせて、第14回は「vExpert サブプログラム」をテーマに開催します。  
+長く続いているものから新設されたものまで、「vExpert サブプログラム」の魅力や活動内容の紹介、  
+受賞に至る経緯などを語っていただきます。  
+得意分野に磨きをかけるという点においても大変励みになるプログラムですので、  
+これからチャレンジしたいみなさまも是非ご参加ください！
+
+### Session Speakers
+* [Changju Park](https://vexpert.vmware.com/directory/1968)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+* [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
+* [Yasutsugu Yamaguchi](https://vexpert.vmware.com/directory/524)
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+---
+## #13. 2022年03月16日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs_zE24jQLNK0bhwinabXKi)]
 2月16日に2022年の vExpert アワードが発表され、日本の vExpert は 91 人となりました！  
 この「vExpert が語る会」に参加していただいた方々からも新規受賞者が複数出たこともあり、  
 今回は「伝え方・育て方」をテーマに開催したいと思います。  
