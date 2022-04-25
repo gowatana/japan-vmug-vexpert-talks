@@ -33,14 +33,14 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
   - Japan VMUG Leader
   - vExpert (Pro, Security)
-* [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
-  - VMware Certified Instructer, Author, Blogger
-  - vExpert (Pro, NSX, Desktop Hypervisor)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - VMTN User Moderator(Japanese Forum), Blogger, Japan VMUG Member
   - vExpert (NSX, Application Modernization, Avi)
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813) (メイン司会担当)
   - Japan VMUG Member
+  - vExpert
+* [Yamato Sakai](https://vexpert.vmware.com/directory/1668) (～ #14)
+  - VMware Certified Instructer, Author, Blogger
   - vExpert
 
 ---
@@ -50,22 +50,32 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #14. 2022年04月20日（水）18:00 - 20:00 [[Japan VMUG Event Page](https://my.vmug.com/s/community-event?id=a1Y4x0000002AOXEA2)]
+## #14. 2022年04月20日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
 2022年の vExpert サブプログラム受賞者の発表にあわせて、第14回は「vExpert サブプログラム」をテーマに開催します。  
 長く続いているものから新設されたものまで、「vExpert サブプログラム」の魅力や活動内容の紹介、  
 受賞に至る経緯などを語っていただきます。  
 得意分野に磨きをかけるという点においても大変励みになるプログラムですので、  
 これからチャレンジしたいみなさまも是非ご参加ください！
 
-### Session Speakers
-* [Changju Park](https://vexpert.vmware.com/directory/1968)
-* [Go Watanabe](https://vexpert.vmware.com/directory/521)
-* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
-* [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
-* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
-* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
-* [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
-* [Yasutsugu Yamaguchi](https://vexpert.vmware.com/directory/524)
+### Session Speakers (2022 Sub Program)
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521),
+  [Kaz Igarashi](https://vexpert.vmware.com/directory/1653) (Pro, Security),
+  [Masato Narishige](https://vexpert.vmware.com/directory/3805) (Pro, EUC, Security),
+  [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
+  - Opening & vExpert Pro [[Recording](https://www.youtube.com/watch?v=z2rYNGKRks8&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482) (EUC, Security, VMware Cloud on AWS)
+  - vExpert が語る「vExpert サブ プログラム」 - vExpert EUC, vExpert Security etc. [[Recording 準備中](https://www.youtube.com/playlist?list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585) (Desktop Hypervisor)
+  - vExpert が語る「vExpert Desktop Hypervisor」 [[Recording](https://www.youtube.com/watch?v=_6tcwGwByqk&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521) (Application Modernization, Avi, NSX, Pro)
+  - vExpert NSX と vExpert Avi と私。 [[Recording](https://www.youtube.com/watch?v=wlpEPYPcUvk&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+* [Yasutsugu Yamaguchi](https://vexpert.vmware.com/directory/524) (Application Modernization)
+  - vExpert Application Modernization [[Recording](https://www.youtube.com/watch?v=eo2D35kFQQ0&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+* [Changju Park](https://vexpert.vmware.com/directory/1968) (Avi, Cloud Management, NSX, VMware Cloud on AWS)
+  - vExpert Cloud Management の紹介 [[Recording](https://www.youtube.com/watch?v=Jay24nXBDvk&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898) (Cloud Provider, NSX, VMware Cloud on AWS)
+  - vExpert VMware Cloud on AWS, vExpert Cloud Provider ～ これから目指す方に向けて ～ [[Recording](https://www.youtube.com/watch?v=PA5IjBS2pzo&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
