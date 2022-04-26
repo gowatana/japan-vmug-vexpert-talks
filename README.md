@@ -65,7 +65,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
   [Yamato Sakai](https://vexpert.vmware.com/directory/1668)
   - Opening & vExpert Pro [[Recording](https://www.youtube.com/watch?v=z2rYNGKRks8&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482) (EUC, Security, VMware Cloud on AWS)
-  - vExpert が語る「vExpert サブ プログラム」 - vExpert EUC, vExpert Security etc. [[Recording 準備中](https://www.youtube.com/playlist?list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
+  - vExpert が語る「vExpert サブ プログラム」 - vExpert EUC, vExpert Security etc. [[Recording](https://www.youtube.com/watch?v=xDckfJcTya0&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585) (Desktop Hypervisor)
   - vExpert が語る「vExpert Desktop Hypervisor」 [[Recording](https://www.youtube.com/watch?v=_6tcwGwByqk&list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521) (Application Modernization, Avi, NSX, Pro)
