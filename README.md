@@ -50,6 +50,33 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #15. 2022年05月24日（火）18:00 - 20:00 [[Recording Playlist 準備中](TBA)]
+5月の vExpert が語る会は、久しぶりに VDI をメインに盛り上がりたいと思います。  
+世界最小の Horizon Home Lab から、Horizon Expert のパネルセッションまで VDI づくしの内容です。  
+加えて、今注目の AI Enterprise まで堪能できるかも？ GPU ユーザー必見です！  
+みなさま、奮ってご参加ください！
+
+### Session Speakers
+* [Eri Teshima](https://vexpert.vmware.com/directory/7439)
+  - AI Enterprise [[Recording 準備中](TBA)]
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - 世界最小の Horizon 8 Home Lab 入門。 [[Recording 準備中](TBA)]
+
+* [Hiroshi Yamaguchi](https://vexpert.vmware.com/directory/3158),
+  [MAD](https://vexpert.vmware.com/directory/520),
+  [Masaomi Kudo (Panel Moderator)](https://vexpert.vmware.com/directory/482)
+  - Horizon VDI パネル ディスカッション [[Recording 準備中](TBA)]
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #14. 2022年04月20日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvIAdFXlvZ5Pp5J2SWez2Hc)]
 2022年の vExpert サブプログラム受賞者の発表にあわせて、第14回は「vExpert サブプログラム」をテーマに開催します。  
 長く続いているものから新設されたものまで、「vExpert サブプログラム」の魅力や活動内容の紹介、  
