@@ -58,7 +58,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 ### Session Speakers
 * [Eri Teshima](https://vexpert.vmware.com/directory/7439)
-  - AI Enterprise [[Recording 準備中](https://www.youtube.com/playlist?list=PLo45fa-pfAruZUMlYyqNaGnItCJUnS55T)]
+  - AI Enterprise [[Recording](https://www.youtube.com/watch?v=BmKhusi7Ul4)]
 
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - 世界最小の Horizon 8 Home Lab 入門。 [[Recording](https://www.youtube.com/watch?v=4s9SgZDY5os)]
