@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #15. 2022年05月24日（火）18:00 - 20:00 [[Recording Playlist 準備中](TBA)]
+## #15. 2022年05月24日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruZUMlYyqNaGnItCJUnS55T)]
 5月の vExpert が語る会は、久しぶりに VDI をメインに盛り上がりたいと思います。  
 世界最小の Horizon Home Lab から、Horizon Expert のパネルセッションまで VDI づくしの内容です。  
 加えて、今注目の AI Enterprise まで堪能できるかも？ GPU ユーザー必見です！  
@@ -58,15 +58,15 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 ### Session Speakers
 * [Eri Teshima](https://vexpert.vmware.com/directory/7439)
-  - AI Enterprise [[Recording 準備中](TBA)]
+  - AI Enterprise [[Recording 準備中](https://www.youtube.com/playlist?list=PLo45fa-pfAruZUMlYyqNaGnItCJUnS55T)]
 
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - 世界最小の Horizon 8 Home Lab 入門。 [[Recording 準備中](TBA)]
+  - 世界最小の Horizon 8 Home Lab 入門。 [[Recording](https://www.youtube.com/watch?v=4s9SgZDY5os)]
 
 * [Hiroshi Yamaguchi](https://vexpert.vmware.com/directory/3158),
   [MAD](https://vexpert.vmware.com/directory/520),
   [Masaomi Kudo (Panel Moderator)](https://vexpert.vmware.com/directory/482)
-  - Horizon VDI パネル ディスカッション [[Recording 準備中](TBA)]
+  - Horizon VDI パネル ディスカッション [[Recording](https://www.youtube.com/watch?v=IQUt9DUBMig)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
