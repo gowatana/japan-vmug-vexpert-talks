@@ -50,6 +50,30 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #16. 2022年06月22日（水）18:00 - 20:00 [[Recording Playlist 準備中](準備中)]
+イベント告知が遅くなりましたが、6 月も vExpert が語る会、しっかり開催いたします！  
+今回のテーマは Security。Carbon Black を始め、禁断のデモまで見れるかも？  
+みなさま、奮ってご参加ください！
+
+### Session Speakers
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
+  - VMware Carbon Black Cloud のレピュテーションの話 [[Recording 準備中](準備中)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - Probatio diabolica [[Recording 準備中](準備中)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - Carbon Black で利用されている osquery の様子を見る。 [[Recording 準備中](準備中)]
+* Yusuke Hirata
+  - VMwareSASEをさらっとご紹介 [[Recording 準備中](準備中)]
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #15. 2022年05月24日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruZUMlYyqNaGnItCJUnS55T)]
 5月の vExpert が語る会は、久しぶりに VDI をメインに盛り上がりたいと思います。  
 世界最小の Horizon Home Lab から、Horizon Expert のパネルセッションまで VDI づくしの内容です。  
