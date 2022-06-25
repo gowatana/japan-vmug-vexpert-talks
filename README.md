@@ -56,14 +56,14 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 みなさま、奮ってご参加ください！
 
 ### Session Speakers
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - Probatio diabolica [[Recording](https://www.youtube.com/watch?v=gWgyPXNTkbo)]
 * [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
   - VMware Carbon Black Cloud のレピュテーションの話 [[Recording 準備中](準備中)]
-* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
-  - Probatio diabolica [[Recording 準備中](準備中)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - Carbon Black で利用されている osquery の様子を見る。 [[Recording 準備中](準備中)]
+  - Carbon Black で利用されている osquery の様子を見る。 [[Recording](https://www.youtube.com/watch?v=TUJqdve5qo4)]
 * Yusuke Hirata
-  - VMwareSASEをさらっとご紹介 [[Recording 準備中](準備中)]
+  - VMware SASEについてさらっと説明 [[Recording 準備中](準備中)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
