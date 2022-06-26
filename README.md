@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #16. 2022年06月22日（水）18:00 - 20:00 [[Recording Playlist 準備中](準備中)]
+## #16. 2022年06月22日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvLYeko-41bCJhxfAXQPmPF)]
 イベント告知が遅くなりましたが、6 月も vExpert が語る会、しっかり開催いたします！  
 今回のテーマは Security。Carbon Black を始め、禁断のデモまで見れるかも？  
 みなさま、奮ってご参加ください！
@@ -63,7 +63,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - Carbon Black で利用されている osquery の様子を見る。 [[Recording](https://www.youtube.com/watch?v=TUJqdve5qo4)]
 * Yusuke Hirata
-  - VMware SASEについてさらっと説明 [[Recording 準備中](準備中)]
+  - VMware SASEについてさらっと説明 [[Recording](https://www.youtube.com/watch?v=9hro0INwuvs)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
