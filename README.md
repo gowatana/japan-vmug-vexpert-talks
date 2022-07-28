@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #17. 2022年07月27日（水）18:00 - 20:00 [[Recording Playlist 準備中](URL)]
+## #17. 2022年07月27日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtF0nw-sw3ABUZclyPF80wT)]
 おまたせしました！ 7月の vExpert が語る会はメインテーマを Automation で開催します。  
 今回も超豪華な登壇者をお迎えし、自動化のデファクト・スタンダード Ansible の活用から、  
 VMware 社が買収した SoltStack、さらには長年利用されている方も多い vROps までと、  
@@ -58,16 +58,16 @@ VMware 社が買収した SoltStack、さらには長年利用されている方
 
 ### Session Speakers
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
-  - Salt で運用に味付けを [[Recording 準備中](URL)]
+  - Salt で運用に味付けを [[Recording](https://www.youtube.com/watch?v=bV6p7KnvO8U)]
 * [Minoru Homma](https://vexpert.vmware.com/directory/4948)
   - vROps 構築・アップデート半自動化＆HA優先度のリソース プール連動 [[Recording 準備中](URL)]
 * [Takehiro Oshima](https://vexpert.vmware.com/directory/4672)
-  - NetboxとAnsibleを使ってvSphere環境の管理・作業の自動化をしてみよう [[Recording 準備中](URL)]
+  - NetboxとAnsibleを使ってvSphere環境の管理・作業の自動化をしてみよう [[Recording](https://www.youtube.com/watch?v=3sBQABfYQQw)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
 
-###  Event Organizers
+### Event Organizers (vExpert PRO)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
