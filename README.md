@@ -60,7 +60,7 @@ VMware 社が買収した SoltStack、さらには長年利用されている方
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
   - Salt で運用に味付けを [[Recording](https://www.youtube.com/watch?v=bV6p7KnvO8U)]
 * [Minoru Homma](https://vexpert.vmware.com/directory/4948)
-  - vROps 構築・アップデート半自動化＆HA優先度のリソース プール連動 [[Recording 準備中](URL)]
+  - vROps 構築・アップデート半自動化＆HA優先度のリソース プール連動 [[Recording](https://www.youtube.com/watch?v=yO9gYeONwHw)]
 * [Takehiro Oshima](https://vexpert.vmware.com/directory/4672)
   - NetboxとAnsibleを使ってvSphere環境の管理・作業の自動化をしてみよう [[Recording](https://www.youtube.com/watch?v=3sBQABfYQQw)]
 
