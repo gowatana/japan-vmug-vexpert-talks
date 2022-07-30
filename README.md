@@ -53,7 +53,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ## #17. 2022年07月27日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtF0nw-sw3ABUZclyPF80wT)]
 おまたせしました！ 7月の vExpert が語る会はメインテーマを Automation で開催します。  
 今回も超豪華な登壇者をお迎えし、自動化のデファクト・スタンダード Ansible の活用から、  
-VMware 社が買収した SoltStack、さらには長年利用されている方も多い vROps までと、  
+VMware 社が買収した SaltStack、さらには長年利用されている方も多い vROps までと、  
 今回も注目のコンテンツが満載です。みなさま、奮ってご参加ください！
 
 ### Session Speakers
