@@ -50,6 +50,44 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #18. 2022年08月17日（水）18:00 - 20:00 [[Recording Playlist 準備中](URL)]
+8月の vExpert が語る会は、真夏のライトニング トーク大会です！  
+テーマ縛りはありませんので、お気軽にご参加ください！
+
+### Session Speakers
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - Japan VMUG 2022年前半活動の振り返り [[Recording 準備中](URL)]
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - VCSA 証明書関連のエラーについて [[Recording 準備中](URL)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - Workspace ONE Tunnel とセキュリティ機能 [[Recording 準備中](URL)]
+* [Takumi Takahata](https://vexpert.vmware.com/directory/9436)
+  - 新人 vExpert 自己紹介  
+    Expertise：End User Computing [[Recording 準備中](URL)]
+* [Jun Shimizu](https://vexpert.vmware.com/directory/4697)
+  - ベンチマーク失敗例と RVTools 活用例 [[Recording 準備中](URL)]
+* Kazuyoshi Yamada
+  - VMware vSAN 重複排除と圧縮の効果 [[Recording 準備中](URL)]
+* Motohisa Ishii
+  - インスタントクローン 仮想デスクトップ ファイルの中身を確認してみた [[Recording 準備中](URL)]
+* [Ryo Ujihara](https://vexpert.vmware.com/directory/520)
+  - vCenter 7u3f / Horizon 8.6 (2206)系で見つけたモノ [[Recording 準備中](URL)]
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - VMware Workstation 16 Pro / Player で使う Windows 11 [[Recording 準備中](URL)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/1653)
+  - GO TO vEXPERT [[Recording 準備中](URL)]
+
+スピーカー名が vExpert Directory リンクではない方は「これからvEを目指したい人」枠での登壇です。
+
+### Moderators
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+
+### Event Organizers (vExpert PRO)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/1653)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #17. 2022年07月27日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtF0nw-sw3ABUZclyPF80wT)]
 おまたせしました！ 7月の vExpert が語る会はメインテーマを Automation で開催します。  
 今回も超豪華な登壇者をお迎えし、自動化のデファクト・スタンダード Ansible の活用から、  
@@ -86,6 +124,8 @@ VMware 社が買収した SaltStack、さらには長年利用されている方
   - Carbon Black で利用されている osquery の様子を見る。 [[Recording](https://www.youtube.com/watch?v=TUJqdve5qo4)]
 * Yusuke Hirata
   - VMware SASEについてさらっと説明 [[Recording](https://www.youtube.com/watch?v=9hro0INwuvs)]
+
+スピーカー名が vExpert Directory リンクではない方は「これからvEを目指したい人」枠での登壇です。
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
