@@ -50,30 +50,30 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #18. 2022年08月17日（水）18:00 - 20:00 [[Recording Playlist 準備中](URL)]
+## #18. 2022年08月17日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtzUcLQoohNlFPh0F8Rm_kG)]
 8月の vExpert が語る会は、真夏のライトニング トーク大会です！  
 テーマ縛りはありませんので、お気軽にご参加ください！
 
 ### Session Speakers
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
-  - Japan VMUG 2022年前半活動の振り返り [[Recording 準備中](URL)]
+  - Japan VMUG 2022年前半活動の振り返り [[Recording](https://www.youtube.com/watch?v=bGA3N0mEES8)]
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
-  - VCSA 証明書関連のエラーについて [[Recording 準備中](URL)]
+  - VCSA 証明書関連のエラーについて [[Recording](https://www.youtube.com/watch?v=M1Kn6s2G900)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - Workspace ONE Tunnel とセキュリティ機能 [[Recording 準備中](URL)]
+  - Workspace ONE Tunnel とセキュリティ機能 [[Recording](https://www.youtube.com/watch?v=Zd4q9_JeHS4)]
 * [Takumi Takahata](https://vexpert.vmware.com/directory/9436)
   - 新人 vExpert 自己紹介  
-    Expertise：End User Computing [[Recording 準備中](URL)]
+    Expertise：End User Computing [[Recording](https://www.youtube.com/watch?v=2P7PN7hmD4E)]
 * [Jun Shimizu](https://vexpert.vmware.com/directory/4697)
   - ベンチマーク失敗例と RVTools 活用例 [[Recording 準備中](URL)]
 * Kazuyoshi Yamada
-  - VMware vSAN 重複排除と圧縮の効果 [[Recording 準備中](URL)]
+  - VMware vSAN 重複排除と圧縮の効果 [[Recording](https://www.youtube.com/watch?v=VkC4j0gJm2Q)]
 * Motohisa Ishii
   - インスタントクローン 仮想デスクトップ ファイルの中身を確認してみた [[Recording 準備中](URL)]
 * [Ryo Ujihara](https://vexpert.vmware.com/directory/520)
-  - vCenter 7u3f / Horizon 8.6 (2206)系で見つけたモノ [[Recording 準備中](URL)]
+  - vCenter 7u3f / Horizon 8.6 (2206)系で見つけたモノ（前からだったらゴメンナサイ）[[Recording](https://www.youtube.com/watch?v=jaMtLIsl4QQ)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
-  - VMware Workstation 16 Pro / Player で使う Windows 11 [[Recording 準備中](URL)]
+  - VMware Workstation 16 Pro / Player で使う Windows 11 [[Recording](https://www.youtube.com/watch?v=8ScH6ow__LE)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/1653)
   - GO TO vEXPERT [[Recording 準備中](URL)]
 
