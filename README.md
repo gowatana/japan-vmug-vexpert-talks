@@ -69,13 +69,13 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * Kazuyoshi Yamada
   - VMware vSAN 重複排除と圧縮の効果 [[Recording](https://www.youtube.com/watch?v=VkC4j0gJm2Q)]
 * Motohisa Ishii
-  - インスタントクローン 仮想デスクトップ ファイルの中身を確認してみた [[Recording 準備中](URL)]
+  - インスタントクローン 仮想デスクトップ ファイルの中身を確認してみた [[Recording](https://www.youtube.com/watch?v=19O3nbbwvOM)]
 * [Ryo Ujihara](https://vexpert.vmware.com/directory/520)
   - vCenter 7u3f / Horizon 8.6 (2206)系で見つけたモノ（前からだったらゴメンナサイ）[[Recording](https://www.youtube.com/watch?v=jaMtLIsl4QQ)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
   - VMware Workstation 16 Pro / Player で使う Windows 11 [[Recording](https://www.youtube.com/watch?v=8ScH6ow__LE)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/1653)
-  - GO TO vEXPERT [[Recording 準備中](URL)]
+  - GO TO vEXPERT [[Recording](https://www.youtube.com/watch?v=RnrNRbiY72s)]
 
 スピーカー名が vExpert Directory リンクではない方は「これからvEを目指したい人」枠での登壇です。
 
