@@ -65,7 +65,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
   - 新人 vExpert 自己紹介  
     Expertise：End User Computing [[Recording](https://www.youtube.com/watch?v=2P7PN7hmD4E)]
 * [Jun Shimizu](https://vexpert.vmware.com/directory/4697)
-  - ベンチマーク失敗例と RVTools 活用例 [[Recording 準備中](URL)]
+  - ベンチマーク失敗例と RVTools 活用例 [[Recording](https://www.youtube.com/watch?v=GDvZUeaa-FI)]
 * Kazuyoshi Yamada
   - VMware vSAN 重複排除と圧縮の効果 [[Recording](https://www.youtube.com/watch?v=VkC4j0gJm2Q)]
 * Motohisa Ishii
