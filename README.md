@@ -62,7 +62,7 @@ Session Speakers
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604), Yusuke Hirata, Kazuyoshi Yamada
   - VMware Explore 2022 US 参加の裏話 [[Recording 準備中](URL)]
 * Naoshi Takahashi
-  - DMMとNSX-Tと [[Recording 準備中](URL)]
+  - DMMとNSX-Tと [[Recording](https://www.youtube.com/watch?v=6R3pa-qb77E)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - ネステッド vSphere で vSAN 8 ESA 検証の準備をしてみよう。 [[Recording](https://www.youtube.com/watch?v=MHklooxLdGg)]
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
