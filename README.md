@@ -49,6 +49,33 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
+
+---
+## #19. 2022年09月28日（水）18:00 - 20:00 [[Recording Playlist 準備中](URL)]
+
+お待たせしました！ 9月の vExpert が語る会は VMware Explore US 現地参加メンバーから Hot なネタが満載です。  
+加えて、NSX 4.0 の Early adopter も登壇予定！  
+みなさま、奮ってご参加ください。  
+※名前に vExpert Direcory リンクがない方は「vExpert を目指す人 枠」での登壇です。
+
+Session Speakers
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604), Yusuke Hirata, Kazuyoshi Yamada
+  - タイトル [[Recording 準備中](URL)]
+* Naoshi Takahashi
+  - タイトル [[Recording 準備中](URL)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - ネステッド vSphere で vSAN 8 ESA 検証の準備をしてみよう。 [[Recording 準備中](URL)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - タイトル [[Recording 準備中](URL)]
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
 ---
 ## #18. 2022年08月17日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtzUcLQoohNlFPh0F8Rm_kG)]
 8月の vExpert が語る会は、真夏のライトニング トーク大会です！  
