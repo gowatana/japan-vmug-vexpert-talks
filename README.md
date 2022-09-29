@@ -51,7 +51,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 
 ---
-## #19. 2022年09月28日（水）18:00 - 20:00 [[Recording Playlist 準備中](URL)]
+## #19. 2022年09月28日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArt99_RuXiCmU8W9FZSELH8X)]
 
 お待たせしました！ 9月の vExpert が語る会は VMware Explore US 現地参加メンバーから Hot なネタが満載です。  
 加えて、NSX 4.0 の Early adopter も登壇予定！  
@@ -60,13 +60,13 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 Session Speakers
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604), Yusuke Hirata, Kazuyoshi Yamada
-  - タイトル [[Recording 準備中](URL)]
+  - VMware Explore 2022 US 参加の裏話 [[Recording 準備中](URL)]
 * Naoshi Takahashi
-  - タイトル [[Recording 準備中](URL)]
+  - DMMとNSX-Tと [[Recording 準備中](URL)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - ネステッド vSphere で vSAN 8 ESA 検証の準備をしてみよう。 [[Recording 準備中](URL)]
+  - ネステッド vSphere で vSAN 8 ESA 検証の準備をしてみよう。 [[Recording](https://www.youtube.com/watch?v=MHklooxLdGg)]
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
-  - タイトル [[Recording 準備中](URL)]
+  - vGPU で Stable Diffusion 動かしてみた [[Recording](https://www.youtube.com/watch?v=sJEw5easevI)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
