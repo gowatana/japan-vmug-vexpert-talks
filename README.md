@@ -51,6 +51,37 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 
 ---
+## #20. 2022年10月26日（水）18:00 - 20:00 [[Recording Playlist準備中](URL)]
+
+10月も vExpert が語る会、しっかり開催いたします！  
+VMware Explore 2022 Japan 開催直前ですが、  
+表舞台では聞けないトピックや、現場からの生の声による事例などをお届けしたいと思います。  
+みなさまのご参加、お待ちしております！  
+※名前に vExpert Direcory リンクがない方は「vExpert を目指す人 枠」での登壇です。
+
+### Session Speakers
+* [Seiya Ueno](https://vexpert.vmware.com/directory/7550)
+  - Workspace ONE Bloggerのご紹介 [[Recording準備中](URL)]
+
+* Nick Boyadjiev
+  - 2-Node vSAN ってどう？（活用事例／Deep Dive） [[Recording準備中](URL)]
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
+  - AWS と Azure、究極の選択！
+    VMware Cloud on AWS / Azure VMware Solution と  
+    NetApp ストレージでどこまでできるかやってみた  
+    その裏側… [[Recording準備中](URL)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vExpert 2023 申請に向けて [[Recording準備中](URL)]
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #19. 2022年09月28日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArt99_RuXiCmU8W9FZSELH8X)]
 
 お待たせしました！ 9月の vExpert が語る会は VMware Explore US 現地参加メンバーから Hot なネタが満載です。  
@@ -58,7 +89,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 みなさま、奮ってご参加ください。  
 ※名前に vExpert Direcory リンクがない方は「vExpert を目指す人 枠」での登壇です。
 
-Session Speakers
+### Session Speakers
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604), Yusuke Hirata, Kazuyoshi Yamada
   - VMware Explore 2022 US 参加の裏話 [[Recording](https://www.youtube.com/watch?v=TdXwX-6AHg4)]
 * Naoshi Takahashi
