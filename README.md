@@ -51,7 +51,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 
 ---
-## #20. 2022年10月26日（水）18:00 - 20:00 [[Recording Playlist準備中](URL)]
+## #20. 2022年10月26日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArspw65Kh_O8iNg4TIgXDpz-)]
 
 10月も vExpert が語る会、しっかり開催いたします！  
 VMware Explore 2022 Japan 開催直前ですが、  
@@ -61,8 +61,7 @@ VMware Explore 2022 Japan 開催直前ですが、
 
 ### Session Speakers
 * [Seiya Ueno](https://vexpert.vmware.com/directory/7550)
-  - Workspace ONE Bloggerのご紹介 [[Recording準備中](URL)]
-
+  - Workspace ONE Bloggerのご紹介 [[Recording](https://www.youtube.com/watch?v=temP_lmN_ks)]
 * Nick Boyadjiev
   - 2-Node vSAN ってどう？（活用事例／Deep Dive） [[Recording準備中](URL)]
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
@@ -71,7 +70,7 @@ VMware Explore 2022 Japan 開催直前ですが、
     NetApp ストレージでどこまでできるかやってみた  
     その裏側… [[Recording準備中](URL)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - vExpert 2023 申請に向けて [[Recording準備中](URL)]
+  - vExpert 2023 申請に向けて [[Recording](https://www.youtube.com/watch?v=lBU2st2lsZo)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
