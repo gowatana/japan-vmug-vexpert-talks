@@ -63,12 +63,12 @@ VMware Explore 2022 Japan 開催直前ですが、
 * [Seiya Ueno](https://vexpert.vmware.com/directory/7550)
   - Workspace ONE Bloggerのご紹介 [[Recording](https://www.youtube.com/watch?v=temP_lmN_ks)]
 * Nick Boyadjiev
-  - 2-Node vSAN ってどう？（活用事例／Deep Dive） [[Recording準備中](URL)]
+  - 2-Node vSAN ってどう？（活用事例／Deep Dive） [[Recording](https://www.youtube.com/watch?v=UsacJBYVM0k)]
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
   - AWS と Azure、究極の選択！
     VMware Cloud on AWS / Azure VMware Solution と  
     NetApp ストレージでどこまでできるかやってみた  
-    その裏側… [[Recording準備中](URL)]
+    その裏側… [[Recording](https://www.youtube.com/watch?v=q0H4GqbzWpo)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - vExpert 2023 申請に向けて [[Recording](https://www.youtube.com/watch?v=lBU2st2lsZo)]
 
