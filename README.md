@@ -49,6 +49,34 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
 
+---
+## #21. 2022年11月29日（火）18:00 - 20:00 [[Recording Playlist★準備中](URL)]
+
+vExpert が語る会、第21回を開催します！  
+VMware Explore 2022 Japan が終わったばかりですが、その興奮が冷めないうちに  
+セッションのリキャップやボツネタ、裏話などを中心にお届けしたいと思います。  
+ご参加お待ちしております。
+
+### Session Speakers
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - Explore EUとJapanの個人的Topics（Anywhere Workspace関連） [[Recording★準備中](URL)]
+* [Jonas Werner](https://vexpert.vmware.com/directory/9177)
+  - 塩漬けOSを如何に保護するか、VMware Cloud on AWS の仮想マシンのセキュリティを高めるには [[Recording★準備中](URL)]
+* [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
+  - ニフクラの中の人が気になったVMware Exploreの注目ポイント [[Recording★準備中](URL)]
+* Yusuke Hirata
+  - VMware Explore 2022 EU,Japanによる VMware SASE&SD-WANのトピックスと所感 [[Recording★準備中](URL)]
+* [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
+  - VMware Explore 2022 Japan でのVMUG企画紹介 [[Recording★準備中](URL)]
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
 
 ---
 ## #20. 2022年10月26日（水）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArspw65Kh_O8iNg4TIgXDpz-)]
