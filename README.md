@@ -55,19 +55,20 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 vExpert が語る会、第21回を開催します！  
 VMware Explore 2022 Japan が終わったばかりですが、その興奮が冷めないうちに  
 セッションのリキャップやボツネタ、裏話などを中心にお届けしたいと思います。  
-ご参加お待ちしております。
+ご参加お待ちしております。  
+※名前に vExpert Direcory リンクがない方は「vExpert を目指す人 枠」での登壇です。
 
 ### Session Speakers
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - Explore EUとJapanの個人的Topics（Anywhere Workspace関連） [[Recording★準備中](URL)]
+  - VMware Explore 2022 個人的 Topics（Anywhere Workspace関連） [[Recording★準備中](URL)]
 * [Jonas Werner](https://vexpert.vmware.com/directory/9177)
   - 塩漬けOSを如何に保護するか、VMware Cloud on AWS の仮想マシンのセキュリティを高めるには [[Recording★準備中](URL)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
-  - ニフクラの中の人が気になったVMware Exploreの注目ポイント [[Recording★準備中](URL)]
+  - ニフクラの中の人が気になった VMware Explore 2022 の注目ポイント [[Recording★準備中](URL)]
 * Yusuke Hirata
-  - VMware Explore 2022 EU,Japanによる VMware SASE&SD-WANのトピックスと所感 [[Recording★準備中](URL)]
+  - VMware Explore 2022 EU, JAPANによるVMware SASE & SD-WANのトピックスと所感 [[Recording★準備中](URL)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
-  - VMware Explore 2022 Japan でのVMUG企画紹介 [[Recording★準備中](URL)]
+  - VMware Explore Japan 2022 VMUG企画の紹介 [[Recording★準備中](URL)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
