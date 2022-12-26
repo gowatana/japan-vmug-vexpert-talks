@@ -50,6 +50,43 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #22. 2022年12月26日（月）18:00 - 20:00 [[Recording Playlist★準備中](URL)]
+
+Go Watanabe と語る vExperts Advent Calendar 2022
+
+12月の vExpert が語る会は、毎年恒例となっている vExperts Advent Calendar について  
+Go Watanabe 氏と一緒にディスカッションしたいと思います。  
+vExperts Advent Calendar に参加されたみなさま、来年参加してみたいと思っている  
+vExpert のみなさまをスピーカーに迎えて、2022 年を振り返り、2023 年を楽しく迎えたいと思います。  
+年末の繁忙時期かと思いますが、ご参加お待ちしております！
+
+### Session Speakers
+
+LT:
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - Swagger で vROps API を触ってみる [[Recording★準備中](URL)]
+
+Advent Calendar Recap: [[Recording★準備中](URL)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+* [Naoyuki Kaneda](https://vexpert.vmware.com/directory/3918)
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+* [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
+* [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+* [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+
+### Moderators
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #21. 2022年11月29日（火）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsVIGTfckwmsaUrfvJB32Uo)]
 
 vExpert が語る会、第21回を開催します！  
