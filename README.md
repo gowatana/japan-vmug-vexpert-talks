@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #22. 2022年12月26日（月）18:00 - 20:00 [[Recording Playlist★準備中](URL)]
+## #22. 2022年12月26日（月）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 
 Go Watanabe と語る vExperts Advent Calendar 2022
 
@@ -62,21 +62,29 @@ vExpert のみなさまをスピーカーに迎えて、2022 年を振り返り�
 
 ### Session Speakers
 
-LT:
+Advent Calendar Recap LT:
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
-  - Swagger で vROps API を触ってみる [[Recording★準備中](URL)]
-
-Advent Calendar Recap: [[Recording★準備中](URL)]
+  - Swagger で vROps API を触ってみる [[Recording](https://www.youtube.com/watch?v=s-0LUK4hhaI&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - VMware Cloud Servicesでエンタープライズ フェデレーションを有効にしてみる [[Recording★準備中](URL)]
 * [Naoyuki Kaneda](https://vexpert.vmware.com/directory/3918)
+  - vSphere仮想化基盤にTPMって必要なの？ [[Recording★準備中](URL)]
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - 「vExpertが語る」のモデレータをやってみた2022 [[Recording★準備中](URL)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
+  - VMware Aria Automation for Secure Cloud Free Tier を使ってみました！(GCP 編) [[Recording](https://www.youtube.com/watch?v=8_W8aWsZdKE&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
+  - VMware Workspace ONE Access ってなんだ？ [[Recording](https://www.youtube.com/watch?v=OGfoeh64TUQ&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - 【VMware EUC】より良い提案を見抜くコツ [[Recording](https://www.youtube.com/watch?v=Q5I4eCF1yKs&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - VMUG Leader Summit 2022 [[Recording](https://www.youtube.com/watch?v=R9FbXzaaJ-0&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - VMware Workstation Pro 17 の中身を見る：ゲスト OS 識別編 [[Recording](https://www.youtube.com/watch?v=T3Vpyq8MYLo&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
+  - VMware PowerCLIを使用したアプリケーション配布 [[Recording★準備中](URL)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - PowerCLI で仮想マシンのスナップショットを作成してみる。（クリスマス編） [[Recording](https://www.youtube.com/watch?v=RC_HKuzhms4&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 
 ### Moderators
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
