@@ -70,7 +70,7 @@ Advent Calendar Recap LT:
 * [Naoyuki Kaneda](https://vexpert.vmware.com/directory/3918)
   - vSphere仮想化基盤にTPMって必要なの？ [[Recording★準備中](URL)]
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
-  - 「vExpertが語る」のモデレータをやってみた2022 [[Recording★準備中](URL)]
+  - 「vExpertが語る」のモデレータをやってみた2022 [[Blog](https://blog.goo.ne.jp/shirokimu/e/294f598442966dd5808360939c7d55fc)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
   - VMware Aria Automation for Secure Cloud Free Tier を使ってみました！(GCP 編) [[Recording](https://www.youtube.com/watch?v=8_W8aWsZdKE&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
