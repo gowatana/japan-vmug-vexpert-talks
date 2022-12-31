@@ -66,7 +66,7 @@ Advent Calendar Recap LT:
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
   - Swagger で vROps API を触ってみる [[Recording](https://www.youtube.com/watch?v=s-0LUK4hhaI&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - VMware Cloud Servicesでエンタープライズ フェデレーションを有効にしてみる [[Recording★準備中](URL)]
+  - VMware Cloud Servicesでエンタープライズ フェデレーションを有効にしてみる [[Recording](https://www.youtube.com/watch?v=fwDhCGw2IVg&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Naoyuki Kaneda](https://vexpert.vmware.com/directory/3918)
   - vSphere仮想化基盤にTPMって必要なの？ [[Recording★準備中](URL)]
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
