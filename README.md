@@ -82,7 +82,7 @@ Advent Calendar Recap LT:
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
   - VMware Workstation Pro 17 の中身を見る：ゲスト OS 識別編 [[Recording](https://www.youtube.com/watch?v=T3Vpyq8MYLo&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
-  - VMware PowerCLIを使用したアプリケーション配布 [[Recording★準備中](URL)]
+  - VMware PowerCLIを使用したアプリケーション配布 [[Recording](https://www.youtube.com/watch?v=1X6GkV1t7O8&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - PowerCLI で仮想マシンのスナップショットを作成してみる。（クリスマス編） [[Recording](https://www.youtube.com/watch?v=RC_HKuzhms4&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 
