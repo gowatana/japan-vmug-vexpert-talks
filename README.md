@@ -68,7 +68,7 @@ Advent Calendar Recap LT:
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
   - VMware Cloud Servicesでエンタープライズ フェデレーションを有効にしてみる [[Recording](https://www.youtube.com/watch?v=fwDhCGw2IVg&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Naoyuki Kaneda](https://vexpert.vmware.com/directory/3918)
-  - vSphere仮想化基盤にTPMって必要なの？ [[Recording★準備中](URL)]
+  - vSphere仮想化基盤にTPMって必要なの？ [[Recording](https://www.youtube.com/watch?v=Ts8px-zqEZ4&list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
   - 「vExpertが語る」のモデレータをやってみた2022 [[Blog](https://blog.goo.ne.jp/shirokimu/e/294f598442966dd5808360939c7d55fc)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
