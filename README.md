@@ -205,7 +205,7 @@ VMware Explore 2022 Japan 開催直前ですが、
   - vCenter 7u3f / Horizon 8.6 (2206)系で見つけたモノ（前からだったらゴメンナサイ）[[Recording](https://www.youtube.com/watch?v=jaMtLIsl4QQ)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
   - VMware Workstation 16 Pro / Player で使う Windows 11 [[Recording](https://www.youtube.com/watch?v=8ScH6ow__LE)]
-* [Masato Narishige](https://vexpert.vmware.com/directory/1653)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
   - GO TO vEXPERT [[Recording](https://www.youtube.com/watch?v=RnrNRbiY72s)]
 
 スピーカー名が vExpert Directory リンクではない方は「これからvEを目指したい人」枠での登壇です。
@@ -215,7 +215,7 @@ VMware Explore 2022 Japan 開催直前ですが、
 
 ### Event Organizers (vExpert PRO)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-* [Masato Narishige](https://vexpert.vmware.com/directory/1653)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
 ---
