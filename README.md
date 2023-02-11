@@ -48,6 +48,27 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
+## #23. 2023年01月31日（月）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/272687/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvNZcANtIQ8p_t1-Q9QYe2K)]
+
+Japan VMUG vExpert が語る (番外編)
+
+2月の vExpert アワード発表までのこの期間に、vExpert が語る番外編として  
+Go Watanabe さん指導のもとで和気藹々とハンズオンを楽しみましょう！  
+今回のハンズオンは vSphere with Tanzu です!   
+もちろん見ているだけでも、茶々入れするのも大歓迎です。ご参加お待ちしています！
+
+### Moderator / Player
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - Hands on theme - vSphere with Tanzu (HOL-2213-01-SDC) [[Recording](https://www.youtube.com/watch?v=TIvlrfJ5zWo&list=PLo45fa-pfArvNZcANtIQ8p_t1-Q9QYe2K)]
+
+### Instructor
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
 ---
 ## #22. 2022年12月26日（月）18:00 - 20:00 [[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvkCLBpkNGpLho42A4I0SFi)]
