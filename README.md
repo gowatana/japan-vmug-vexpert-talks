@@ -50,6 +50,46 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #24. 2023年02月28日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/275661/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+2023年の vExpert アワードが発表されました！  
+Global でもかなり受賞者の数が減りましたが、その中でも日本からは53名が受賞、国別でもUKに次ぐ5位(Feb.17th発表時点)となりました。  
+受賞されたみなさま、おめでとうございます！  
+これから vExpert を目指したいみなさまも、是非この会を利用して Community 活動に積極的にご参加いただければと思います。  
+
+第24回では、前回 Live で HOL を楽しんだ Atsushi Kimura さんからのフィードバックや、Go Watanabe さんの vSphere with Tanzu の話に加え、New vExpert からの Lightning Talk を予定していますので奮ってご参加ください！
+
+### Session Speakers
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - Tanzu 未経験者の俺が HOL で vSphere with Tanzu (HOL-2213-01-SDC) の構築してみた [[Recording](https://www.youtube.com/watch?v=bV8TdQrOx34&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vSphere with Tanzu の話（vSphere 8 での様子も） [[Recording](https://www.youtube.com/watch?v=Q4sR-inbIIA&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
+  - 2023年の抱負と意気込み、今年やってみたいこと [[Recording](https://www.youtube.com/watch?v=sTwPHPtguzE&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+* [Motohisa Ishii](https://vexpert.vmware.com/directory/9438)
+  - ここが辛いよ!? 新人Workspace ONE vExpert [[Recording★準備中](URL)]
+
+* [Wataru Unno](https://vexpert.vmware.com/directory/2790)
+  - AI に ESXi で使えるコードを書いてもらおう [[Recording](https://www.youtube.com/watch?v=If2XVNZ2T8s&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+* [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
+  - vExpert☆1 の今年注目してみたいこと [[Recording](https://www.youtube.com/watch?v=pcPtc9k0CvQ&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - New vExpert として迎える今年の活動 [[Recording](https://www.youtube.com/watch?v=pm0zSgmz-gQ&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #23. 2023年01月31日（月）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/272687/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvNZcANtIQ8p_t1-Q9QYe2K)]
 
 Japan VMUG vExpert が語る (番外編)
