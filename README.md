@@ -70,7 +70,7 @@ Global でもかなり受賞者の数が減りましたが、その中でも日�
   - 2023年の抱負と意気込み、今年やってみたいこと [[Recording](https://www.youtube.com/watch?v=sTwPHPtguzE&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
 
 * [Motohisa Ishii](https://vexpert.vmware.com/directory/9438)
-  - ここが辛いよ!? 新人Workspace ONE vExpert [[Recording★準備中](URL)]
+  - ここが辛いよ!? 新人Workspace ONE vExpert [[Recording](https://www.youtube.com/watch?v=sYHiCmRov30&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
 
 * [Wataru Unno](https://vexpert.vmware.com/directory/2790)
   - AI に ESXi で使えるコードを書いてもらおう [[Recording](https://www.youtube.com/watch?v=If2XVNZ2T8s&list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
