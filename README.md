@@ -35,7 +35,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
   - vExpert (Pro, Security)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - VMTN User Moderator(Japanese Forum), Blogger, Japan VMUG Member
-  - vExpert (NSX, Application Modernization, Avi)
+  - vExpert (Pro, NSX, Application Modernization, Avi)
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813) (メイン司会担当)
   - Japan VMUG Member
   - vExpert
@@ -173,7 +173,7 @@ VMware Explore 2022 Japan が終わったばかりですが、その興奮が冷
   - 塩漬けOSを如何に保護するか、VMware Cloud on AWS の仮想マシンのセキュリティを高めるには [[Recording](https://www.youtube.com/watch?v=RbUrCwmFNlI)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
   - ニフクラの中の人が気になった VMware Explore 2022 の注目ポイント [[Recording](https://www.youtube.com/watch?v=UktI7Qqm2EA)]
-* Yusuke Hirata
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
   - VMware Explore 2022 EU, JAPANによるVMware SASE & SD-WANのトピックスと所感 [[Recording](https://www.youtube.com/watch?v=piT0gsGWG6g)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
   - VMware Explore Japan 2022 VMUG企画の紹介 [[Recording](https://www.youtube.com/watch?v=DrxQSbxzfBE)]
@@ -226,9 +226,9 @@ VMware Explore 2022 Japan 開催直前ですが、
 ※名前に vExpert Direcory リンクがない方は「vExpert を目指す人 枠」での登壇です。
 
 ### Session Speakers
-* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604), Yusuke Hirata, Kazuyoshi Yamada
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604), [Yusuke Hirata](https://vexpert.vmware.com/directory/7393), [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
   - VMware Explore 2022 US 参加の裏話 [[Recording](https://www.youtube.com/watch?v=TdXwX-6AHg4)]
-* Naoshi Takahashi
+* [Naoshi Takahashi](https://vexpert.vmware.com/directory/10696)
   - DMMとNSX-Tと [[Recording](https://www.youtube.com/watch?v=6R3pa-qb77E)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - ネステッド vSphere で vSAN 8 ESA 検証の準備をしてみよう。 [[Recording](https://www.youtube.com/watch?v=MHklooxLdGg)]
@@ -260,9 +260,9 @@ VMware Explore 2022 Japan 開催直前ですが、
     Expertise：End User Computing [[Recording](https://www.youtube.com/watch?v=2P7PN7hmD4E)]
 * [Jun Shimizu](https://vexpert.vmware.com/directory/4697)
   - ベンチマーク失敗例と RVTools 活用例 [[Recording](https://www.youtube.com/watch?v=GDvZUeaa-FI)]
-* Kazuyoshi Yamada
+* [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
   - VMware vSAN 重複排除と圧縮の効果 [[Recording](https://www.youtube.com/watch?v=VkC4j0gJm2Q)]
-* Motohisa Ishii
+* [Motohisa Ishii](https://vexpert.vmware.com/directory/9438)
   - インスタントクローン 仮想デスクトップ ファイルの中身を確認してみた [[Recording](https://www.youtube.com/watch?v=19O3nbbwvOM)]
 * [Ryo Ujihara](https://vexpert.vmware.com/directory/520)
   - vCenter 7u3f / Horizon 8.6 (2206)系で見つけたモノ（前からだったらゴメンナサイ）[[Recording](https://www.youtube.com/watch?v=jaMtLIsl4QQ)]
@@ -316,7 +316,7 @@ VMware 社が買収した SaltStack、さらには長年利用されている方
   - VMware Carbon Black Cloud のレピュテーションの話 [[Recording](https://www.youtube.com/watch?v=muriVpagHFQ)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - Carbon Black で利用されている osquery の様子を見る。 [[Recording](https://www.youtube.com/watch?v=TUJqdve5qo4)]
-* Yusuke Hirata
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
   - VMware SASEについてさらっと説明 [[Recording](https://www.youtube.com/watch?v=9hro0INwuvs)]
 
 スピーカー名が vExpert Directory リンクではない方は「これからvEを目指したい人」枠での登壇です。
