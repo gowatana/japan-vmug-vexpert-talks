@@ -50,6 +50,42 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #25. 2023年03月14日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/277109/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
+
+vExpert が語る会 第25回を開催します！  
+日本時間3月3日の1:00から vExpert Program で開催された Zoom セッション  
+「[vExpert] We Want to Help You Win / Earn the 2023 vExpert Award」の内容を受け、  
+vExpert を受賞するためにどのような活動をしたら良いのか、最新の審査傾向を盛り込み  
+2023年の 2nd-half または 2024年以降も継続して vExpert を目指すみなさまに有益となる情報をお伝えできればと思います。  
+ご参加お待ちしています！
+
+### Session Speakers
+
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Go to vExpert MkⅡ [[Recording](https://www.youtube.com/watch?v=663ZPyn6bD8&list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
+
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - vExpert Award 審査の傾向とその背景 [[Recording](https://www.youtube.com/watch?v=KtlWQFEfgQM&list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vExpert 応募の様子（自分の場合） [[Recording★準備中](URL)]
+
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - VMware の内と外をつなげるコミュニティ活動へ:  
+    VMware CTO Ambassador プログラムの紹介 [[Recording](https://www.youtube.com/watch?v=Zr-kB168FOw&list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
+
+* [Toshihisa Noguchi](https://vexpert.vmware.com/directory/4870)
+  - vExpertになってよかったことと、今年の活動について [[Recording](https://www.youtube.com/watch?v=0qTCPaQYVFo&list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #24. 2023年02月28日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/275661/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArshEtFtXo1qDJwIvK1pbfDc)]
 
 2023年の vExpert アワードが発表されました！  
