@@ -68,7 +68,7 @@ vExpert を受賞するためにどのような活動をしたら良いのか、
   - vExpert Award 審査の傾向とその背景 [[Recording](https://www.youtube.com/watch?v=KtlWQFEfgQM&list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
 
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - vExpert 応募の様子（自分の場合） [[Recording★準備中](URL)]
+  - vExpert 応募の様子（自分の場合） [[Recording](https://www.youtube.com/watch?v=8zpdfD-BJCA&list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
 
 * [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
   - VMware の内と外をつなげるコミュニティ活動へ:  
