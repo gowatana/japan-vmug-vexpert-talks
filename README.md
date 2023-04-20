@@ -50,6 +50,38 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #26. 2023年04月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/279140/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
+
+26回目の「vExpertが語る」 今回のテーマは、約1年半振りのEnd User Computing（EUC）。
+
+この1年半の間でも日進月歩で変わりまくっているEUCのトレンドや日本国内での動向など、普段EUC導入に携わっているEUCのプロフェッショナルに、vExpertならではの切り口で語っていただきます。
+
+ここでしか聴くことができない○と✕など、配信ではカットされちゃう”ポロリ”もあるかも！？
+
+### Session Speakers
+
+* [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
+  - みんな大好きVMware Flings - EUC編 - [[Recording★準備中](URL)]
+* [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
+  - 普段Workspace ONE Accessを触っている人がOktaも触ってみた話 [[Recording★準備中](URL)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - 仮想化技術による医療DX実現への道  
+    ～上級医療情報技師がvExpertの視点から語る、医療現場の変革と挑戦～ [[Recording](https://www.youtube.com/watch?v=iop0dHM1FGM&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - Horizon Cloud Service - next-gen
+    何が次世代なのか調べてみた [[Recording★準備中](URL)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - PowerCLI と Horizon VMware.Hv.Helper 超入門 [[Recording](https://www.youtube.com/watch?v=4xd2fTFpkDM&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)] ※2次会
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #25. 2023年03月14日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/277109/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvWHi7Q2NPxcC38-j8weong)]
 
 vExpert が語る会 第25回を開催します！  
