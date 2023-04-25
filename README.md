@@ -61,15 +61,15 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ### Session Speakers
 
 * [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
-  - みんな大好きVMware Flings - EUC編 - [[Recording★準備中](URL)]
+  - みんな大好きVMware Flings - EUC編 - [[Recording](https://www.youtube.com/watch?v=JaO4nSoMs3o&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
-  - 普段Workspace ONE Accessを触っている人がOktaも触ってみた話 [[Recording★準備中](URL)]
+  - 普段Workspace ONE Accessを触っている人がOktaも触ってみた話 [[Recording](https://www.youtube.com/watch?v=983M9mYae2U&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
   - 仮想化技術による医療DX実現への道  
     ～上級医療情報技師がvExpertの視点から語る、医療現場の変革と挑戦～ [[Recording](https://www.youtube.com/watch?v=iop0dHM1FGM&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
   - Horizon Cloud Service - next-gen
-    何が次世代なのか調べてみた [[Recording★準備中](URL)]
+    何が次世代なのか調べてみた [[Recording](https://www.youtube.com/watch?v=VUiKBL9KPeA&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - PowerCLI と Horizon VMware.Hv.Helper 超入門 [[Recording](https://www.youtube.com/watch?v=4xd2fTFpkDM&list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)] ※2次会
 
