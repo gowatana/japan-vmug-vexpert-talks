@@ -50,6 +50,39 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #27. 2023年06月02日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/284877/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
+
+27回目の「vExpertが語る」 今回のテーマは、vExpert サブプログラム。
+
+2023/04/15(JST) に、[vExpert 2023 サブプログラムの受賞者](https://blogs.vmware.com/vexpert/2023/04/20/vexpert-2023-sub-program-award-announcement/) が発表されました。
+
+vExpertサブプログラムとはVMware製品分野ごとにコミュニティ貢献者を表彰するもので、今年はApplication Modernization、Avi、Cloud Management、Cloud Provider、EUC、Multi-Cloud、NSX、Security、vExpert PROの9種類があります。
+
+ということで、今年度の各サブプログラムの紹介やLTしたいと思います。
+
+※サブプログラムに限らず今回もLT募集中です。vExpert 2023 2nd-half への応募（予定では6/5～6/30が応募期間）を検討されているかた、ぜひご参加ください。
+
+### Session Speakers
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vExpert 2023 Sub-Programs の紹介 [[Recording](https://www.youtube.com/watch?v=i4uJzgeUpXM&list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vSphere with Tanzu だけではない お手軽 Kubernetes 環境構築 [[Recording](https://www.youtube.com/watch?v=WHn8pHIfYNk&list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - VMware Carbon Black Cloud Python SDK を触ってみた [[Recording](https://www.youtube.com/watch?v=HqqCGP9iNLQ&list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - AWS 上で動かす Horizon について調べてみた [[Recording★準備中](URL)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Japan vExpert EUC & Security / 自動隔離や脆弱性チェックを試してみた [[Recording★準備中](URL)]
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #26. 2023年04月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/279140/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtc2uIEfx1-GGftXQAk7vso)]
 
 26回目の「vExpertが語る」 今回のテーマは、約1年半振りのEnd User Computing（EUC）。
