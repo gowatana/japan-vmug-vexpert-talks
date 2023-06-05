@@ -70,9 +70,9 @@ vExpertサブプログラムとはVMware製品分野ごとにコミュニティ�
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
   - VMware Carbon Black Cloud Python SDK を触ってみた [[Recording](https://www.youtube.com/watch?v=HqqCGP9iNLQ&list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - AWS 上で動かす Horizon について調べてみた [[Recording★準備中](URL)]
+  - AWS 上で動かす Horizon について調べてみた [[Recording](https://www.youtube.com/watch?v=HwtYgtcTTRU&list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
-  - Japan vExpert EUC & Security / 自動隔離や脆弱性チェックを試してみた [[Recording★準備中](URL)]
+  - Japan vExpert EUC & Security / 自動隔離や脆弱性チェックを試してみた [[Recording](https://www.youtube.com/watch?v=kVwCz7laHlw&list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
 
 ### Moderator
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
