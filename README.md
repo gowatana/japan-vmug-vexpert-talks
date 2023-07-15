@@ -50,6 +50,36 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #28. 2023年07月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/288362/)][[Recording Playlist]()]
+
+第28回となる「vExpertが語る会」のテーマは VMC (VMware Cloud) です！  
+Multi-Cloud サブ プログラム受賞の vExpert を含む錚々たるスピーカーをお迎えし、今回も盛り上げて行きたいと思います。
+
+セッションタイトルは，決まり次第公開していきますのでお楽しみに！
+
+### Session Speakers
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
+  - vSphere+ はどのへんがプラスなのか、やってみた [[Recording](https://www.youtube.com/watch?v=wtSfVAhfAiQ&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
+* Minoru Homma
+  - NSXの仮想パッチとSRとDR [[Recording★準備中](URL)]
+* [Yuji Arahira](https://vexpert.vmware.com/directory/9009)
+  - こういう監視もありじゃない？個人的3選 [[Recording](https://www.youtube.com/watch?v=qBZarByXFWY&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
+* [Toshihisa Noguchi](https://vexpert.vmware.com/directory/4870)
+  - VMware Cloud on AWS ハンズオン環境の裏側･･･ [[Recording](https://www.youtube.com/watch?v=MJhZJ4ctmpo&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VMware Cloud on AWS のコストを見る。 [[Recording](https://www.youtube.com/watch?v=Mu_Uj1ZCtc4&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]  
+
+※vExpert Directory へのリンクがない方は、「vExpert を目指す枠」での登壇です。
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #27. 2023年06月02日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/284877/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsgZSzLZKHfxrvEa-zvrcBZ)]
 
 27回目の「vExpertが語る」 今回のテーマは、vExpert サブプログラム。
