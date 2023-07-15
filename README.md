@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #28. 2023年07月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/288362/)][[Recording Playlist]()]
+## #28. 2023年07月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/288362/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
 
 第28回となる「vExpertが語る会」のテーマは VMC (VMware Cloud) です！  
 Multi-Cloud サブ プログラム受賞の vExpert を含む錚々たるスピーカーをお迎えし、今回も盛り上げて行きたいと思います。
