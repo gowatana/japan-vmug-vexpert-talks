@@ -61,7 +61,7 @@ Multi-Cloud サブ プログラム受賞の vExpert を含む錚々たるスピ�
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
   - vSphere+ はどのへんがプラスなのか、やってみた [[Recording](https://www.youtube.com/watch?v=wtSfVAhfAiQ&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
 * Minoru Homma
-  - NSXの仮想パッチとSRとDR [[Recording★準備中](URL)]
+  - NSXの仮想パッチとSRとDR [[Recording](https://www.youtube.com/watch?v=4Spd2xlqqL8&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
 * [Yuji Arahira](https://vexpert.vmware.com/directory/9009)
   - こういう監視もありじゃない？個人的3選 [[Recording](https://www.youtube.com/watch?v=qBZarByXFWY&list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
 * [Toshihisa Noguchi](https://vexpert.vmware.com/directory/4870)
