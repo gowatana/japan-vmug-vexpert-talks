@@ -50,6 +50,36 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #29. 2023年09月27日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/296134/)][[Recording Playlist★準備中](URL)]
+
+第29回目の「vExpertが語る会」は8月に開催されたVMware Explore USをテーマに開催します。  
+現地参加された方々のレポートはもちろん、日本からオンライン参加していたvExpert達からの裏話など、今回も楽しく盛り上げて行きたいと思います。
+
+### Session Speakers
+
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
+  - どこよりも早いとかいう速報ブログはどうやって生まれているのか？  
+    ～ 本当にちゃんと書いているのか？ その裏側とは･･･ ～ [[Recording★準備中](URL)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - VMware Explore 2023 Las Vegas 現地参加の裏話  
+    \- 速報ブログや報告会の舞台裏をちょっとだけ紹介 - [[Recording★準備中](URL)]
+* [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
+  - vExpert EUCのLas Vegas放浪記 [[Recording★準備中](URL)]
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
+  - NSX+とNSX VPCのさわり [[Recording★準備中](URL)]
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - VMware Explore 2023 Las Vegasで見たVMware SD-WANとVMware SASE [[Recording★準備中](URL)]
+
+
+### Moderator
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #28. 2023年07月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/288362/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruPd2wpFpldNkOQitHLzTs2)]
 
 第28回となる「vExpertが語る会」のテーマは VMC (VMware Cloud) です！  
