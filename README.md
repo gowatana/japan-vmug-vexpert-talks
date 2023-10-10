@@ -25,7 +25,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
     - vExpertになったきっかけは？
   - お話の内容をもとに参加者で質問・意見交換など（15分程度）
 
-* 録画は [Youtubeチャネル](https://www.youtube.com/channel/UCigY5fIsNIy4BbmlTlV_Y-A) で公開（任意）
+* 録画は [Youtubeチャネル](https://www.youtube.com/@vmug-jp) で公開（任意）
 
 
 ## Organizers / Moderators
