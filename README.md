@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #29. 2023年09月27日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/296134/)][[Recording Playlist★準備中](URL)]
+## #29. 2023年09月27日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/296134/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 
 第29回目の「vExpertが語る会」は8月に開催されたVMware Explore USをテーマに開催します。  
 現地参加された方々のレポートはもちろん、日本からオンライン参加していたvExpert達からの裏話など、今回も楽しく盛り上げて行きたいと思います。
@@ -62,13 +62,13 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
     ～ 本当にちゃんと書いているのか？ その裏側とは･･･ ～ [[Recording★準備中](URL)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
   - VMware Explore 2023 Las Vegas 現地参加の裏話  
-    \- 速報ブログや報告会の舞台裏をちょっとだけ紹介 - [[Recording★準備中](URL)]
+    \- 速報ブログや報告会の舞台裏をちょっとだけ紹介 - [[Recording](https://www.youtube.com/watch?v=KqICD9uGyL0&list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 * [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
-  - vExpert EUCのLas Vegas放浪記 [[Recording★準備中](URL)]
+  - vExpert EUCのLas Vegas放浪記 [[Recording](https://www.youtube.com/watch?v=vUm6z1UVIkk&list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 * [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
-  - NSX+とNSX VPCのさわり [[Recording★準備中](URL)]
+  - NSX+とNSX VPCのさわり [[Recording](https://www.youtube.com/watch?v=XJLP1OeWFQM&list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 * [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
-  - VMware Explore 2023 Las Vegasで見たVMware SD-WANとVMware SASE [[Recording★準備中](URL)]
+  - VMware Explore 2023 Las Vegasで見たVMware SD-WANとVMware SASE [[Recording](https://www.youtube.com/watch?v=fjstc1OVcHQ&list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 
 
 ### Moderator
