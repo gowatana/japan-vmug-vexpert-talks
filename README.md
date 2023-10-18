@@ -88,7 +88,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
   - どこよりも早いとかいう速報ブログはどうやって生まれているのか？  
-    ～ 本当にちゃんと書いているのか？ その裏側とは･･･ ～ [[Recording★準備中](URL)]
+    ～ 本当にちゃんと書いているのか？ その裏側とは･･･ ～ [[Recording](https://www.youtube.com/watch?v=EvgCNMlpmos&list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
   - VMware Explore 2023 Las Vegas 現地参加の裏話  
     \- 速報ブログや報告会の舞台裏をちょっとだけ紹介 - [[Recording](https://www.youtube.com/watch?v=KqICD9uGyL0&list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
