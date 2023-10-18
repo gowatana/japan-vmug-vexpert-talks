@@ -50,6 +50,34 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #30. 2023年10月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/298159/)][[Recording Playlist★準備中](URL)]
+
+第30回目の「vExpertが語る会」は様々な旬ネタを取り揃えて開催します。  
+セッションタイトルは決まり次第公開していきますのでお楽しみに！
+
+### Session Speakers
+
+* [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
+  - DWPGって何だ？ [[Recording★準備中](URL)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - 今だからこそ vSphere Security Configuration and Hardening Guide [[Recording★準備中](URL)]
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
+  - VMware Explore 2023 Singapore レポと VMC on AWS ネタ [[Recording★準備中](URL)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - 電子カルテの次なる段階  
+    ～Horizon 8とCarbon Black Cloud Workloadで実現するスピード、セキュリティ、メンテナンス性の向上～ [[Recording★準備中](URL)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - 誰得！？WS1ライセンスガイドとvExpertのすすめ [[Recording★準備中](URL)]
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #29. 2023年09月27日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/296134/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvNkqa6AIfkAPLG48NVavgL)]
 
 第29回目の「vExpertが語る会」は8月に開催されたVMware Explore USをテーマに開催します。  
