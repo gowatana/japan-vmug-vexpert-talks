@@ -62,7 +62,8 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
   - 今だからこそ vSphere Security Configuration and Hardening Guide [[Recording★準備中](URL)]
 * [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
-  - VMware Explore 2023 Singapore レポと VMC on AWS ネタ [[Recording★準備中](URL)]
+  - VMware Explore 2023 Singapore レポ  
+   VMware Cloud on AWS ネタ [[Recording★準備中](URL)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
   - 電子カルテの次なる段階  
     ～Horizon 8とCarbon Black Cloud Workloadで実現するスピード、セキュリティ、メンテナンス性の向上～ [[Recording★準備中](URL)]
