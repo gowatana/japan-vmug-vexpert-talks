@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #30. 2023年10月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/298159/)][[Recording Playlist★準備中](URL)]
+## #30. 2023年10月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/298159/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
 
 第30回目の「vExpertが語る会」は様々な旬ネタを取り揃えて開催します。  
 セッションタイトルは決まり次第公開していきますのでお楽しみに！
