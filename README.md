@@ -58,17 +58,19 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ### Session Speakers
 
 * [Daisuke Yajima](https://vexpert.vmware.com/directory/3528)
-  - DWPGって何だ？ [[Recording★準備中](URL)]
+  - DWPGって何だ？ [[Recording](https://www.youtube.com/watch?v=fivXsMZG0xE&list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
-  - 今だからこそ vSphere Security Configuration and Hardening Guide [[Recording★準備中](URL)]
+  - 今だからこそ vSphere Security Configuration and Hardening Guide [[Recording](https://www.youtube.com/watch?v=1dHPct8LmDY&list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
 * [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
-  - VMware Explore 2023 Singapore レポ  
-   VMware Cloud on AWS ネタ [[Recording★準備中](URL)]
+  - VMware Explore 2023 Singapore 参加レポ  
+   VMware Cloud on AWS の小ネタ [[Recording](https://www.youtube.com/watch?v=nnHCfAcECRY&list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
   - 電子カルテの次なる段階  
-    ～Horizon 8とCarbon Black Cloud Workloadで実現するスピード、セキュリティ、メンテナンス性の向上～ [[Recording★準備中](URL)]
+    ～Horizon 8とCarbon Black Cloud Workloadで実現するスピード、セキュリティ、メンテナンス性の向上～ [[Recording](https://www.youtube.com/watch?v=Vbikqz49UX8&list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
-  - 誰得！？WS1ライセンスガイドとvExpertのすすめ [[Recording★準備中](URL)]
+  - 誰得！？WS1ライセンスガイド [[Recording](https://www.youtube.com/watch?v=g7YmmycsSJQ&list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - vExpertのすすめ - Go to vExpert MkⅢ [[Recording](https://www.youtube.com/watch?v=o2KWRkR2kAk&list=PLo45fa-pfArsVuw-1D-NaLkFMd2s1Ywhk)]
 
 ### Moderator
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
