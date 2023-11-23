@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #31. 2023年11月21日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/301983/)][[Recording Playlist★準備中](URL)]
+## #31. 2023年11月21日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/301983/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 
 VMware Explore の余韻が醒めない時期ですが、第31回目の「vExpertが語る会」を開催します。
 Explore のセッションでは聞けなかった裏話など、今回もバラエティに富んだコンテンツを用意してみなさまのご参加をお待ちしています。
@@ -58,15 +58,15 @@ Explore のセッションでは聞けなかった裏話など、今回もバラ
 ### Session Speakers
 
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
-  - vMotion のお話 [[Recording★準備中](URL)]
+  - vMotion のお話 [[Recording](https://www.youtube.com/watch?v=hiVhgaKRMXw&list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - vSphere+は何がプラスなのかいろいろ調べてみた [[Recording★準備中](URL)]
+  - vSphere+ は何がプラスなのかいろいろ調べてみた [[Recording](https://www.youtube.com/watch?v=ge4mq6SvSaI&list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
-  - Explore Tokyo セッション裏話 "ボツネタ供養" [[Recording★準備中](URL)]
+  - Explore Tokyo セッション裏話 "ボツネタ供養" [[Recording](https://www.youtube.com/watch?v=H9HpYvNgvAo&list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
-  - VMware Explore 2023の注目ポイントとNSX VPC使ってみた [[Recording★準備中](URL)]
+  - VMware Explore 2023の注目ポイントとNSX VPC使ってみた [[Recording](https://www.youtube.com/watch?v=_yWNdSxL17I&list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - VMware ドキュメントを AI が読んでみる。（LLM 様子見編） [[Recording★準備中](URL)]
+  - VMware ドキュメントを AI が読んでみる。（LLM 様子見編） [[Recording](https://www.youtube.com/watch?v=XzOt9kqG0hI&list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 
 ### Moderator
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
