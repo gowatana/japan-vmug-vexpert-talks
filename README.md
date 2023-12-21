@@ -50,6 +50,37 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #32. 2023年12月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/304378/)][[Recording Playlist★準備中](URL)]
+
+早いもので今年もあとわずかとなりましたが、第32回目の「vExpertが語る会」を開催します。  
+クリスマス前の慌ただしい時期ですが、今回も魅力あるコンテンツを用意してみなさまのご参加をお待ちしています。
+
+### Session Speakers
+
+* [Masayuki Toyoda](https://vexpert.vmware.com/directory/6447)
+  - vCenter Converter で EC2 インスタンスを VMware Cloud on AWS に移行してみた [[Recording★準備中](URL)]
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
+  - vSphere 管理者に優しい Carbon Black Cloud Workload [[Recording★準備中](URL)]
+* [Masanori Nara](https://vexpert.vmware.com/directory/495)
+  - vSphere 環境で日本語対応 LLM を利用する [[Recording★準備中](URL)]
+* [Yuji Arahira](https://vexpert.vmware.com/directory/9009)
+  - The Frugal ArchitectとVMware Cloud on AWS [[Recording★準備中](URL)]
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - どう変わった？VMware by Broadcom [[Recording★準備中](URL)]
+* [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
+  - Job vMotion [[Recording★準備中](URL)]
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - 5分で話すSD-Access [[Recording★準備中](URL)]
+
+### Moderator
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #31. 2023年11月21日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/301983/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsCr83gKfrj9JVSBFMIK8rf)]
 
 VMware Explore の余韻が醒めない時期ですが、第31回目の「vExpertが語る会」を開催します。
