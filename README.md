@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #32. 2023年12月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/304378/)][[Recording Playlist★準備中](URL)]
+## #32. 2023年12月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/304378/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 
 早いもので今年もあとわずかとなりましたが、第32回目の「vExpertが語る会」を開催します。  
 クリスマス前の慌ただしい時期ですが、今回も魅力あるコンテンツを用意してみなさまのご参加をお待ちしています。
@@ -58,19 +58,19 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ### Session Speakers
 
 * [Masayuki Toyoda](https://vexpert.vmware.com/directory/6447)
-  - vCenter Converter で EC2 インスタンスを VMware Cloud on AWS に移行してみた [[Recording★準備中](URL)]
+  - vCenter Converter で EC2 インスタンスを VMware Cloud on AWS に移行してみた [[Recording](https://www.youtube.com/watch?v=QkbzFUIDRaw&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 * [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
-  - vSphere 管理者に優しい Carbon Black Cloud Workload [[Recording★準備中](URL)]
+  - vSphere 管理者に優しい Carbon Black Cloud Workload [[Recording](https://www.youtube.com/watch?v=SY2pOZ3nrQw&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 * [Masanori Nara](https://vexpert.vmware.com/directory/495)
-  - vSphere 環境で日本語対応 LLM を利用する [[Recording★準備中](URL)]
+  - vSphere 環境で日本語対応 LLM を利用する [[Recording](https://www.youtube.com/watch?v=ng0VMD12Wt8&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 * [Yuji Arahira](https://vexpert.vmware.com/directory/9009)
-  - The Frugal ArchitectとVMware Cloud on AWS [[Recording★準備中](URL)]
+  - The Frugal ArchitectとVMware Cloud on AWS [[Recording](https://www.youtube.com/watch?v=wciDaO7L2oA&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 * [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
-  - どう変わった？VMware by Broadcom [[Recording★準備中](URL)]
+  - どう変わった？VMware by Broadcom [[Recording](https://www.youtube.com/watch?v=65aQBftLCOA&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
-  - Job vMotion [[Recording★準備中](URL)]
+  - Job vMotion [[Recording](https://www.youtube.com/watch?v=8BPGuDj8gNc&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 * [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
-  - 5分で話すSD-Access [[Recording★準備中](URL)]
+  - 5分で話すSD-Access [[Recording](https://www.youtube.com/watch?v=13TX91wocGI&list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 
 ### Moderator
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
