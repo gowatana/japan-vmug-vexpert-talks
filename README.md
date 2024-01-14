@@ -50,7 +50,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
-## #33. 2024年01月12日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/305924/)][[Recording Playlist★準備中](URL)]
+## #33. 2024年01月12日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/305924/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 
 2024年のスタートとなる第33回目の「vExpertが語る会」では、vExperts Advent Calendar 2023を振り返りながら、賑やかなLTで新年を迎えたいと思います。
 
@@ -60,43 +60,43 @@ https://adventar.org/calendars/8879
 ### Session Speakers
 
 * [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
-  - カスタムCPUコアのVMware Cloud on AWS環境を作成してみた [[Recording★準備中](URL)]
+  - カスタムCPUコアのVMware Cloud on AWS環境を作成してみた [[Recording](https://www.youtube.com/watch?v=CH1WMm0hXYQ&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Yuji Arahira](https://vexpert.vmware.com/directory/9009)
-  - VMware Cloud on AWSとAmazon Connectの連携例を考えてみた [[Recording★準備中](URL)]
+  - VMware Cloud on AWSとAmazon Connectの連携例を考えてみた [[Recording](https://www.youtube.com/watch?v=f80ljmbPAwI&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Toshihisa Noguchi](https://vexpert.vmware.com/directory/4870)
-  - VMware Cloud on AWSの新しいインスタンスが発表されたぞ！（M7i.metal） [[Recording★準備中](URL)]
+  - VMware Cloud on AWSの新しいインスタンスが発表されたぞ！（M7i.metal） [[Recording](https://www.youtube.com/watch?v=E67tNnJ8CFo&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Masanori Nara](https://vexpert.vmware.com/directory/495)
-  - Intel iGPUをパススルーして利用する - vSphere VM編 [[Recording★準備中](URL)]
+  - Intel iGPUをパススルーして利用する - vSphere VM編 [[Recording](https://www.youtube.com/watch?v=b4O7QMZOGKY&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
   - VCDRのランサムウェアリカバリオプションを動かしてみる [[Recording★準備中](URL)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
-  - VMware Edge Cloud Orchestrator（Project Keswick）でEdgeの管理を試してみた [[Recording★準備中](URL)]
+  - VMware Edge Cloud Orchestrator（Project Keswick）でEdgeの管理を試してみた [[Recording](https://www.youtube.com/watch?v=E7IF_CHBUEU&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
-  - VMware Backdoor の話を継承していく [[Recording★準備中](URL)]
+  - VMware Backdoor の話を継承していく [[Recording](https://www.youtube.com/watch?v=EKRP7yiF9Fs&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
-  - SeleniumでNSX-T Managerに同時アクセスしてみた！ [[Recording★準備中](URL)]
+  - SeleniumでNSX-T Managerに同時アクセスしてみた！ [[Recording](https://www.youtube.com/watch?v=A-MXRlYoG0k&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [takehiro oshima](https://vexpert.vmware.com/directory/4672)
-  - お前もAnsible VMwareコレクションのコントリビュータにならないか？ [[Recording★準備中](URL)]
+  - お前もAnsible VMwareコレクションのコントリビュータにならないか？ [[Recording](https://www.youtube.com/watch?v=DH93GAuyeqs&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
   - VMware Aria Operations ～レポート基本編～ [[Recording★準備中](URL)]
 * [Wataru Unno](https://vexpert.vmware.com/directory/2790)
   - VMware Horizon 2309 で FIDO2 認証を利用する [[Recording★準備中](URL)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
-  - Carbon Black Cloud Workloadとインスタントクローンによる電子カルテインフラのアドバンテージ [[Recording★準備中](URL)]
+  - Carbon Black Cloud Workloadとインスタントクローンによる電子カルテインフラのアドバンテージ [[Recording](https://www.youtube.com/watch?v=fF4aAChsYfA&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
-  - VMware Workstation Player 17 の中身を見る : ゲスト OS 識別 2023年編 [[Recording★準備中](URL)]
+  - VMware Workstation Player 17 の中身を見る : ゲスト OS 識別 2023年編 [[Recording](https://www.youtube.com/watch?v=G2eB_i7MPMA&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
-  - Live Optics を利用した仮想化基盤の詳細アセスメント（2024年版） [[Recording★準備中](URL)]
+  - Live Optics を利用した仮想化基盤の詳細アセスメント（2024年版） [[Recording](https://www.youtube.com/watch?v=chZCfjsWiZE&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
-  - 自分vMotionの話 [[Recording★準備中](URL)]
+  - 自分vMotionの話 [[Recording](https://www.youtube.com/watch?v=yfIEAesQeVY&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
-  - R660 と KB95940 [[Recording★準備中](URL)]
+  - R660 と KB95940 [[Recording](https://www.youtube.com/watch?v=x7Hh4K9cwx0&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
   - Windows起動不能！？師走に訪れた衝撃、アレをやっておけば・・・ [[Recording★準備中](URL)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - Kubeflow を Standalone TKG 2.4 にインストールしてみる。 [[Recording★準備中](URL)]
+  - Kubeflow を Standalone TKG 2.4 にインストールしてみる。 [[Recording](https://www.youtube.com/watch?v=XHbQ2flskcU&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
-  - VMware Workstationで Nextcloud を動かしてみる [[Recording★準備中](URL)]
+  - VMware Workstationで Nextcloud を動かしてみる [[Recording](https://www.youtube.com/watch?v=3TVhB0wS3Hk&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 
 ### Moderator
 - [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
