@@ -50,6 +50,63 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 こちらにも開催履歴を用意しました。
 
 ---
+## #33. 2024年01月12日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/305924/)][[Recording Playlist★準備中](URL)]
+
+2024年のスタートとなる第33回目の「vExpertが語る会」では、vExperts Advent Calendar 2023を振り返りながら、賑やかなLTで新年を迎えたいと思います。
+
+vExperts Advent Calendar 2023  
+https://adventar.org/calendars/8879
+
+### Session Speakers
+
+* [Koichi Takeda](https://vexpert.vmware.com/directory/8898)
+  - カスタムCPUコアのVMware Cloud on AWS環境を作成してみた [[Recording★準備中](URL)]
+* [Yuji Arahira](https://vexpert.vmware.com/directory/9009)
+  - VMware Cloud on AWSとAmazon Connectの連携例を考えてみた [[Recording★準備中](URL)]
+* [Toshihisa Noguchi](https://vexpert.vmware.com/directory/4870)
+  - VMware Cloud on AWSの新しいインスタンスが発表されたぞ！（M7i.metal） [[Recording★準備中](URL)]
+* [Masanori Nara](https://vexpert.vmware.com/directory/495)
+  - Intel iGPUをパススルーして利用する - vSphere VM編 [[Recording★準備中](URL)]
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - VCDRのランサムウェアリカバリオプションを動かしてみる [[Recording★準備中](URL)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - VMware Edge Cloud Orchestrator（Project Keswick）でEdgeの管理を試してみた [[Recording★準備中](URL)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - VMware Backdoor の話を継承していく [[Recording★準備中](URL)]
+* [Shintaro Hasunuma](https://vexpert.vmware.com/directory/5531)
+  - SeleniumでNSX-T Managerに同時アクセスしてみた！ [[Recording★準備中](URL)]
+* [takehiro oshima](https://vexpert.vmware.com/directory/4672)
+  - お前もAnsible VMwareコレクションのコントリビュータにならないか？ [[Recording★準備中](URL)]
+* [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
+  - VMware Aria Operations ～レポート基本編～ [[Recording★準備中](URL)]
+* [Wataru Unno](https://vexpert.vmware.com/directory/2790)
+  - VMware Horizon 2309 で FIDO2 認証を利用する [[Recording★準備中](URL)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - Carbon Black Cloud Workloadとインスタントクローンによる電子カルテインフラのアドバンテージ [[Recording★準備中](URL)]
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - VMware Workstation Player 17 の中身を見る : ゲスト OS 識別 2023年編 [[Recording★準備中](URL)]
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - Live Optics を利用した仮想化基盤の詳細アセスメント（2024年版） [[Recording★準備中](URL)]
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - 自分vMotionの話 [[Recording★準備中](URL)]
+* [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
+  - R660 と KB95940 [[Recording★準備中](URL)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Windows起動不能！？師走に訪れた衝撃、アレをやっておけば・・・ [[Recording★準備中](URL)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - Kubeflow を Standalone TKG 2.4 にインストールしてみる。 [[Recording★準備中](URL)]
+* [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
+  - VMware Workstationで Nextcloud を動かしてみる [[Recording★準備中](URL)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #32. 2023年12月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/304378/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArucM0LHsQOcFQWI8QgsS7gQ)]
 
 早いもので今年もあとわずかとなりましたが、第32回目の「vExpertが語る会」を開催します。  
