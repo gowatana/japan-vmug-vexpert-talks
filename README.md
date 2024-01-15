@@ -68,7 +68,7 @@ https://adventar.org/calendars/8879
 * [Masanori Nara](https://vexpert.vmware.com/directory/495)
   - Intel iGPUをパススルーして利用する - vSphere VM編 [[Recording](https://www.youtube.com/watch?v=b4O7QMZOGKY&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
-  - VCDRのランサムウェアリカバリオプションを動かしてみる [[Recording★準備中](URL)]
+  - VCDRのランサムウェアリカバリオプションを動かしてみる [[Recording](https://www.youtube.com/watch?v=yiCyyP4T-Ec&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
   - VMware Edge Cloud Orchestrator（Project Keswick）でEdgeの管理を試してみた [[Recording](https://www.youtube.com/watch?v=E7IF_CHBUEU&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
@@ -78,7 +78,7 @@ https://adventar.org/calendars/8879
 * [takehiro oshima](https://vexpert.vmware.com/directory/4672)
   - お前もAnsible VMwareコレクションのコントリビュータにならないか？ [[Recording](https://www.youtube.com/watch?v=DH93GAuyeqs&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
-  - VMware Aria Operations ～レポート基本編～ [[Recording★準備中](URL)]
+  - VMware Aria Operations ～レポート基本編～ [[Recording](https://www.youtube.com/watch?v=WIOeAgLjn5k&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Wataru Unno](https://vexpert.vmware.com/directory/2790)
   - VMware Horizon 2309 で FIDO2 認証を利用する [[Recording★準備中](URL)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
@@ -92,7 +92,7 @@ https://adventar.org/calendars/8879
 * [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
   - R660 と KB95940 [[Recording](https://www.youtube.com/watch?v=x7Hh4K9cwx0&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
-  - Windows起動不能！？師走に訪れた衝撃、アレをやっておけば・・・ [[Recording★準備中](URL)]
+  - Windows起動不能！？師走に訪れた衝撃、アレをやっておけば・・・ [[Recording](https://www.youtube.com/watch?v=ilgzzSB_G9k&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - Kubeflow を Standalone TKG 2.4 にインストールしてみる。 [[Recording](https://www.youtube.com/watch?v=XHbQ2flskcU&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Kunihiro Yamazaki](https://vexpert.vmware.com/directory/3226)
