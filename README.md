@@ -80,7 +80,7 @@ https://adventar.org/calendars/8879
 * [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
   - VMware Aria Operations ～レポート基本編～ [[Recording](https://www.youtube.com/watch?v=WIOeAgLjn5k&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Wataru Unno](https://vexpert.vmware.com/directory/2790)
-  - VMware Horizon 2309 で FIDO2 認証を利用する [[Recording★準備中](URL)]
+  - VMware Horizon 2309 で FIDO2 認証を利用する [[Recording](https://www.youtube.com/watch?v=OML4YS-x-Uc&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
   - Carbon Black Cloud Workloadとインスタントクローンによる電子カルテインフラのアドバンテージ [[Recording](https://www.youtube.com/watch?v=fF4aAChsYfA&list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
