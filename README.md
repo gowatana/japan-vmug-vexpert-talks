@@ -35,7 +35,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
   - vExpert (Pro, Security)
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - VMTN User Moderator(Japanese Forum), Blogger, Japan VMUG Member
-  - vExpert (Pro, NSX, Application Modernization, Avi)
+  - vExpert (Pro, NSX, Application Modernization, Avi, etc.)
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
   - Anywhere workspace consultant, Japan VMUG Member
   - vExpert (Pro, Security), EUC Expert
