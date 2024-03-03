@@ -48,6 +48,46 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
 こちらにも開催履歴を用意しました。
+---
+## #34. 2024年02月28日（水）18:00 - 20:00 [[Event Page](https://connpass.com/event/311031/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+
+第 34 回目の「vExpertが語る会」を開催します！  
+今回は、2024/2/23（JST）に発表された vExpert 2024 の様子をお届けします。
+
+vExpert 2024 Awards Announcement  
+https://blogs.vmware.com/vexpert/2024/02/22/vexpert-2024-awards-announcement/
+
+また、これまで vExpert のサブ プログラムという位置づけになっていた vExpert EUC は、今回から「EUC Expert」プログラムとして独立しました。そこで EUC Expert の紹介と、EUC Expert 2024 受賞者による LT も予定しています。
+
+### Session Speakers
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vExpert 2024 発表と、今年のサブブログラムについての紹介 [[Recording](https://www.youtube.com/watch?v=EDdyzKann9s&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - The Dawn of the EUC Expert Program: Beginning of a wonderful journey [[Recording](https://www.youtube.com/watch?v=xc-XqenRS8I&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Wataru Unno](https://vexpert.vmware.com/directory/2790)
+  - 大量の VMware Horizon 仮想マシンに 一括でユーザーを割り当てるツール [[Recording](https://www.youtube.com/watch?v=-POSz-sFkWY&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - CBC SDKでデバイス操作してみた [[Recording](https://www.youtube.com/watch?v=jiEIDDIAUAM&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - 自宅ラボへのリモートアクセスをHorizonのUAGとWorkspace ONE UEMで (気持ち) セキュアにしてみた [[Recording](https://www.youtube.com/watch?v=JhvlApDUl_0&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Akito Ogushi](https://vexpert.vmware.com/directory/6209)
+  - vExpert兼EUC Expert  
+    去年の活動まとめと今年の抱負 [[Recording](https://www.youtube.com/watch?v=xKqkoovZykU&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Takumi Takahata](https://vexpert.vmware.com/directory/9436)
+  - EUC Expert に認定されたため EUC関連の検証機状況を紹介 [[Recording](https://www.youtube.com/watch?v=vdv8qijdq5U&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - EUC Expertの視点から見た医療DXの地平線  
+    上級医療情報技師がvExpert、EUC Expertの視点から語る医療現場の変革と挑戦 [[Recording](https://www.youtube.com/watch?v=xkO5F56usPo&list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
 ---
 ## #33. 2024年01月12日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/305924/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtFZf-AlCGM-Mlb9X6x4xZR)]
