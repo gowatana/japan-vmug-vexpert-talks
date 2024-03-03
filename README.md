@@ -46,8 +46,8 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ---
 # 2. Events
 
-イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、  
-こちらにも開催履歴を用意しました。
+イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
+
 ---
 ## #34. 2024年02月28日（水）18:00 - 20:00 [[Event Page](https://connpass.com/event/311031/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
 
