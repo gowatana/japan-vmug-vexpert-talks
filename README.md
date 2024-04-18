@@ -52,7 +52,43 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
-## #34. 2024年02月28日（水）18:00 - 20:00 [[Event Page](https://connpass.com/event/311031/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
+## #35. 2024年04月03日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/313656/)][[Recording Playlist](★)]
+
+第35回目の「vExpertが語る会」を開催します！
+
+今回は、vExpert 2024 であらたにvExpertを受賞された方の意気込みや”逸般の誤家庭”ネタ等、さまざまなテーマでのセッションを予定していますのでお楽しみに。
+
+また今回は特別セッションとして工藤さんの「ココでしか話せないイロイロなお話」も企画中！  
+「vExpertが語る」でしか話せないコンテンツと資料満載の予感ｗ  
+まさにアウトレイジ！  
+※本セッションは部分的に録画公開版ではカットされる可能性大のため、リアルタイム視聴必須です！！！
+
+### Session Speakers
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - 一般家庭でもできる vSAN 構築 [[Recording](https://www.youtube.com/watch?v=GeTVRwuoYEM&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - Aria Operations 自作アラートを作ってみる [[Recording](https://www.youtube.com/watch?v=odu9Sddcl-8&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - VMware Flings はどうなったの？ [[Recording](https://www.youtube.com/watch?v=1SCX3v4tSs4&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
+* [Seiya Murakami](https://vexpert.vmware.com/directory/11699)
+  - Tanzu Developer Portal Configurator を触ってみたときのお話「やはり海外ニキは"つよつよ"だった」 [[Recording](https://www.youtube.com/watch?v=qdMi-c9Ccz4&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
+* [Seiichi Yumura](https://vexpert.vmware.com/directory/9437)
+  - 2ノード vSAN『VD-4000』のセットアップは実際のところ簡単？  [[Recording](https://www.youtube.com/watch?v=H-XZAeWOOvs&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
+  - 「VMware Cloud on AWSの 誤解されやすい7つのポイント ～そう?そう！のフリーレン～」 [[Recording★準備中](URL)]
+
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
+## #34. 2024年02月28日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/311031/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru8f2E9KYo_8lLodSGAKiFJ)]
 
 第 34 回目の「vExpertが語る会」を開催します！  
 今回は、2024/2/23（JST）に発表された vExpert 2024 の様子をお届けします。
