@@ -52,7 +52,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
-## #35. 2024年04月03日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/313656/)][[Recording Playlist](★)]
+## #35. 2024年04月03日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/313656/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
 
 第35回目の「vExpertが語る会」を開催します！
 
@@ -76,7 +76,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Seiichi Yumura](https://vexpert.vmware.com/directory/9437)
   - 2ノード vSAN『VD-4000』のセットアップは実際のところ簡単？  [[Recording](https://www.youtube.com/watch?v=H-XZAeWOOvs&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
-  - 「VMware Cloud on AWSの 誤解されやすい7つのポイント ～そう?そう！のフリーレン～」 [[Recording★準備中](URL)]
+  - 「VMware Cloud on AWSの 誤解されやすい7つのポイント ～そう?そう！のフリーレン～」
 
 
 ### Moderator
