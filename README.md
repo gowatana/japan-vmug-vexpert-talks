@@ -76,7 +76,8 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Seiichi Yumura](https://vexpert.vmware.com/directory/9437)
   - 2ノード vSAN『VD-4000』のセットアップは実際のところ簡単？  [[Recording](https://www.youtube.com/watch?v=H-XZAeWOOvs&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
 * [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
-  - 「VMware Cloud on AWSの 誤解されやすい7つのポイント ～そう?そう！のフリーレン～」
+  - 「VMware Cloud on AWSの 誤解されやすい7つのポイント ～そう?そう！のフリーレン～」 [[Recording](https://www.youtube.com/watch?v=P_MBgdYC4lA&list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
+  
 
 
 ### Moderator
