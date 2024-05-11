@@ -51,6 +51,35 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
+## #36. 2024年05月08日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/317872/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
+
+第36回目の「vExpertが語る会」を開催します！
+
+今回は先日発表となった vExpert 2024 Sub Program を受賞されたみなさまからの Lightning Talk 企画です。奮ってご参加ください。
+
+### Session Speakers
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vExpert 2024 Sub-Programs の紹介 [[Recording](https://www.youtube.com/watch?v=KWHF_96e1lY&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
+* [Akihiro Unemoto](https://vexpert.vmware.com/directory/11456) (vExpert vSphere)
+  - Terraform初心者がvSphere自動化に挑戦 [[Recording★準備中](URL)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805) (vExpert Security)
+  - Go to vExpert Mk-Ⅳ / vExpert Security ごにょごにょ [[Recording](https://www.youtube.com/watch?v=wzJ4IedOK5Q&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
+* [Yasutsugu Yamaguchi](https://vexpert.vmware.com/directory/524)  (vExpert Application Modernization)
+  - vExpert が語る「Application Modernization」と 注目の Run.ai [[Recording](https://www.youtube.com/watch?v=1rTo8vwckis&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - Raspberry Pi 5出たのでESXi動かしたよ [[Recording](https://www.youtube.com/watch?v=fCE2mNFXsX0&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - Avi Load Balancer を Terraform で操作してみる。 [[Recording](https://www.youtube.com/watch?v=ESYSDz1dOZc&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
 ---
 ## #35. 2024年04月03日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/313656/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsfCfb1uQvpyujDtf31y8lm)]
 
