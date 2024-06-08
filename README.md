@@ -62,7 +62,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - vExpert 2024 Sub-Programs の紹介 [[Recording](https://www.youtube.com/watch?v=KWHF_96e1lY&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
 * [Akihiro Unemoto](https://vexpert.vmware.com/directory/11456) (vExpert vSphere)
-  - Terraform初心者がvSphere自動化に挑戦 [[Recording★準備中](URL)]
+  - Terraform初心者がvSphere自動化に挑戦 [[Recording](https://www.youtube.com/watch?v=esOPBjdpgEg&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805) (vExpert Security)
   - Go to vExpert Mk-Ⅳ / vExpert Security ごにょごにょ [[Recording](https://www.youtube.com/watch?v=wzJ4IedOK5Q&list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
 * [Yasutsugu Yamaguchi](https://vexpert.vmware.com/directory/524)  (vExpert Application Modernization)
