@@ -51,6 +51,33 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
+---
+## #37. 2024年06月05日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/318603/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruAOmXlWrZzr6JnfG625WW1)]
+
+第37回目の「vExpertが語る会」は VMware by Broadcom 社にて初めての対面開催です！
+
+ここだけでしか聞けないVCFの話をはじめ、対面ならではのコミュニティを堪能できるまたとない機会なのでみなさま奮ってご参加ください。
+
+### Session Speakers
+
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - 初っ端で躓かない！ VCF 検証環境をスムーズにセットアップするポイント [[Recording](https://www.youtube.com/watch?v=8vAFCK7n8I8&list=PLo45fa-pfAruAOmXlWrZzr6JnfG625WW1)]
+* [Tomoyuki Tanigaki](https://vexpert.vmware.com/directory/11080)
+  - Terraform で作る Nested vSphere 環境 [[Recording](https://www.youtube.com/watch?v=Axn9R845vk0&list=PLo45fa-pfAruAOmXlWrZzr6JnfG625WW1)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - あのサイトは今!? VMwareの各種ポータルやWEBサイトのビフォーアフターを整理してみた [[Recording](https://www.youtube.com/watch?v=_QAys4Fvo28&list=PLo45fa-pfAruAOmXlWrZzr6JnfG625WW1)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Go to vExpert Mk-Ⅴ vExpert 2024 second period [[Recording](https://www.youtube.com/watch?v=IGu0hV7-QZU&list=PLo45fa-pfAruAOmXlWrZzr6JnfG625WW1)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #36. 2024年05月08日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/317872/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsa0noa6aiW-8svlEa63eiC)]
 
 第36回目の「vExpertが語る会」を開催します！
