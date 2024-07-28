@@ -52,7 +52,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
-## #38. 2024年07月17日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/324350/)][[Recording Playlist★準備中](URL)]
+## #38. 2024年07月17日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/324350/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtGe2cC78UFzimnaK8BDKX5)]
 
 第38回目の「vExpertが語る会」を開催します！ 先日 GA となった vSphere / vSAN 8.0 U3 や vExpert 2nd-half の話題などを中心に盛り上がっていきましょう。  
 みなさまのご参加お待ちしています。
@@ -60,13 +60,13 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ### Session Speakers
 
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
-  - vSAN 8.0 U3 新機能: vSAN Data Protection の Snapshot Service Appliance を停止してみる。 [[Recording★準備中](URL)]
+  - vSAN 8.0 U3 新機能: vSAN Data Protection の Snapshot Service Appliance を停止してみる。 [[Recording](https://www.youtube.com/watch?v=uMYcP7P7-14&list=PLo45fa-pfArtGe2cC78UFzimnaK8BDKX5)]
 * [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
-  - VMware vSphereベースのクラウドへ ～OCVS事始め～ [[Recording★準備中](URL)]
+  - VMware vSphereベースのクラウドへ ～OCVS事始め～ [[Recording](https://www.youtube.com/watch?v=1ZzzUUzwP7A&list=PLo45fa-pfArtGe2cC78UFzimnaK8BDKX5)]
 * [Ryo Ujihara](https://vexpert.vmware.com/directory/520)
-  - Security強化しようと思ってVCSAのIPとホスト名を簡単に変えようと思うなよ？ [[Recording★準備中](URL)]
+  - Security強化しようと思ってVCSAのIPとホスト名を簡単に変えようと思うなよ？ [[Recording](https://www.youtube.com/watch?v=CILgQgjAg40&list=PLo45fa-pfArtGe2cC78UFzimnaK8BDKX5)]
 * [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
-  - vExpert 2年目の新たなチャレンジ ～Subprogram(vExpert Security)にエントリー～ [[Recording★準備中](URL)]
+  - vExpert 2年目の新たなチャレンジ ～Subprogram(vExpert Security)にエントリー～ [[Recording](https://www.youtube.com/watch?v=BozeC7uYlDU&list=PLo45fa-pfArtGe2cC78UFzimnaK8BDKX5)]
 * [Go Watanabe](https://vexpert.vmware.com/directory/521)
   - vExpert 2024 2nd-half 申し込みのお知らせ（締切は7/19になりました）
 
