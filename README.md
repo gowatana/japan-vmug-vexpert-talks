@@ -24,6 +24,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
   - VMwareで最近興味のあるものについて
   - vExpertになったきっかけの話
   - 最近の検証や、ブログの紹介、こぼれ話など
+  - VMware 関連イベント登壇のボツネタ供養
   - なにかテーマをもとに参加者で質問・意見交換など
 * 録画は [Youtubeチャネル](https://www.youtube.com/@vmug-jp) で公開（任意）
 
