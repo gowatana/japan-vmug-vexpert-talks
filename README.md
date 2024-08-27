@@ -52,6 +52,32 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #39. 2024年08月21日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/326582/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
+
+
+
+### Session Speakers
+
+* [Seiya Murakami](https://vexpert.vmware.com/directory/11699)
+  - vGPUドライバインストールについて - 流行りのPrivate AIをほんのり添えて [[Recording](https://www.youtube.com/watch?v=NyyZg-afcDE&list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - vSphere 8.0 U3をざっくり見てみよう [[Recording](https://www.youtube.com/watch?v=9RIG1DzO1sY&list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
+* [Kazuki Nishida](https://vexpert.vmware.com/directory/12114)
+  - NSXから始めるVCF [[Recording](https://www.youtube.com/watch?v=PJKhA7KvsiE&list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
+* [Akihiro Unemoto](https://vexpert.vmware.com/directory/11456)
+  - 自宅LABアップデート - 一般家庭のAviでBGPやってみた [[Recording](https://www.youtube.com/watch?v=2WuqNJnLI00&list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
+* [Hirotaka Sato](https://vexpert.vmware.com/directory/12139)
+  - VMware 振り返りとおうちクラウド [[Recording](https://www.youtube.com/watch?v=-EQxYi3Pc20&list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #38. 2024年07月17日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/324350/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtGe2cC78UFzimnaK8BDKX5)]
 
 第38回目の「vExpertが語る会」を開催します！ 先日 GA となった vSphere / vSAN 8.0 U3 や vExpert 2nd-half の話題などを中心に盛り上がっていきましょう。  
