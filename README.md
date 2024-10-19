@@ -52,9 +52,41 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #40. 2024年10月09日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/331867/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruXxLzhVzMChBdi-VKxYZMH)]
+
+第40回目の「vExpertが語る会」を開催します！
+
+今回は、8月末にラスベガスで開催された Explore 2024 の内容を中心にお届けします。  
+現地参加できなかったみなさまは是非この機会を活用して Explore 2024 の熱を感じていただければと思います。
+
+### Session Speakers
+
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - Explore 2024 Las Vegas 現地参加の裏話 - 報告会で語れなかったネタを紹介 - [[Recording](https://www.youtube.com/watch?v=8MKi0vNgfZM&list=PLo45fa-pfAruXxLzhVzMChBdi-VKxYZMH)]
+* [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
+  - VMware Explore 2024 Las Vegas - 会場の雰囲気を中心に、ついでにちょっと技術トピックも [[Recording](https://www.youtube.com/watch?v=042DkaqlYsM&list=PLo45fa-pfAruXxLzhVzMChBdi-VKxYZMH)]
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - VMware Cloud Foundation 9 - VCF 最新情報と VCF 9 ロードマップ [[Recording](https://www.youtube.com/watch?v=aiD9wzXhIEg&list=PLo45fa-pfAruXxLzhVzMChBdi-VKxYZMH)]
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - OCVSを触ってみた in 2024（秋） [[Recording](https://www.youtube.com/watch?v=DcPCHviOibo&list=PLo45fa-pfAruXxLzhVzMChBdi-VKxYZMH)]
+* [Masaomi Kudo](https://vexpert.vmware.com/directory/482)
+  - 現地にいかなくても行った気になれる VMware Explore LAS VEGAS [[Recording](https://www.youtube.com/watch?v=ftZCwGv0J9Y&list=PLo45fa-pfAruXxLzhVzMChBdi-VKxYZMH)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #39. 2024年08月21日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/326582/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtRQn6S2QXbUp623EVMu7ut)]
 
+第39回目の「vExpertが語る会」を開催します！
 
+今回は、VCF や VMware Private AI Foundation にすこし関連する話、vExpert 2024 2nd-Half 受賞者の話などを予定しています。  
+もしかしたら今月末にラスベガスで開催されるExplore 2024の準備にもなるかもしれません。
 
 ### Session Speakers
 
