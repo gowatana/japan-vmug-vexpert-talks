@@ -51,6 +51,34 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
+---
+## #42. 2024年12月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/339607/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+
+第 42 回目の「vExpert が語る会」を開催します！
+
+今年も1年間ありがとうございました！  
+2024 年最後の vExpert が語る会も VCP 受験に向けた秘策や Avi、ARM など豊富なコンテンツを用意してみなさまのご参加をお待ちしています。
+
+### Session Speakers
+* [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
+  - おうちクラウドを現地に出張した話 [[Recording](https://www.youtube.com/watch?v=lGioDvrLPhw&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - VCP-VCFの勘所 [[Recording](https://www.youtube.com/watch?v=wnB7cL2qL8E&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+* [Akihiro Unemoto](https://vexpert.vmware.com/directory/11456)
+  - Terraform CloudでAvi Load Balancerを自動化してみる [[Recording](https://www.youtube.com/watch?v=-ID-9mAbSgs&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - ProxmoxからvSphereに移行してみる [[Recording](https://www.youtube.com/watch?v=8vjZe5f-WFw&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - SRMの謎 [[Recording](https://www.youtube.com/watch?v=ts7kb7X9caI&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
 --
 ## #41. 2024年11月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/336685/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru2MdPaqkYfkYKjrNjSa07H)]
 
