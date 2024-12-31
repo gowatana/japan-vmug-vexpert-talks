@@ -79,7 +79,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 - [Masato Narishige](https://vexpert.vmware.com/directory/3805)
 - [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
---
+---
 ## #41. 2024年11月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/336685/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru2MdPaqkYfkYKjrNjSa07H)]
 
 第 41 回目の「vExpertが語る会」を開催します！
