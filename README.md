@@ -52,6 +52,56 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #43. 2024年12月27日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/340652/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+
+第 43 回目の「vExpert が語る会」を開催します！今回が本当に 2024 年の最終回です。
+
+毎年大勢の vExpert にご参加いただいている [vExperts Advent Calendar 2024](https://adventar.org/calendars/10310) の投稿をもとに今年1年を振り返りたいと思います。
+
+さらに、[Go Watanabe](https://vexpert.vmware.com/directory/521) による VCP-VCF 資格試験に向けたスペシャル勉強会も用意
+しています。
+
+師走のご多忙な時期ですが、みなさまのご参加お待ちしています！
+
+### Session Speakers
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCP-VCF 勉強会 第 0 回 [[Recording](https://www.youtube.com/watch?v=ao8R-v0yUVI&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+
+vExperts Advent Calendar 2024 振り返り（前編）
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCF 5.2 で ESXi の SSH サービスを有効化してみる。 [[Recording](https://youtu.be/ao8R-v0yUVI?si=vgGWbmRUONoU4ite&t=572)]
+* [naoyuki kaneda](https://vexpert.vmware.com/directory/3918)
+  - Ansible で vSphere 上に仮想マシンを大量展開する [[Recording](https://www.youtube.com/watch?v=I-JK_Eck1kk&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - Broadcom support portal で ESXi と vCenter のインストーラーファイルを入手する（個人で） [[Recording](https://www.youtube.com/watch?v=Yn6TkaNH8Hs&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - 大切なことは興味を持ってブログを書くということ [[Recording](https://www.youtube.com/watch?v=vDXaS5y0-iI&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+* [Wataru Unno](https://vexpert.vmware.com/directory/2790)
+  - (いまさら)Raspberry Piで学ぶ ESXi 第1回 ESXi-Arm Flingの概要と導入準備 [[Recording](URL)]
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - 折角VMware Fusion使ってるんだからvExpertとしてやる事あるだろうが！ ver1.0 （Arm版Windows11は一般的なスペックのM2 MBAで何台快適に稼働するのか？　うす味） [[Recording](https://www.youtube.com/watch?v=gIbZb8uyQjA&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - AI素人が VMware Private AI Foundation with NVIDIA (HOL)を試してみた [[Recording](https://www.youtube.com/watch?v=FHKbDBRPeXI&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+* [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
+  - シャチクラのすゝめ [[Recording](https://www.youtube.com/watch?v=VuOrb0xeWjI&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - 医療 DX の推進と安全管理を支える仮想化基盤構築を目指して [[Recording](https://www.youtube.com/watch?v=KljUxNAs-no&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+
+おまけパート
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCF 関連 Advent Calendar 2024 と VMware Private AI Foundation with NVIDIA の雰囲気を見る会 [[Recording](https://www.youtube.com/watch?v=Es9bg_bzilw&list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #42. 2024年12月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/339607/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
 
 第 42 回目の「vExpert が語る会」を開催します！
@@ -67,7 +117,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Akihiro Unemoto](https://vexpert.vmware.com/directory/11456)
   - Terraform CloudでAvi Load Balancerを自動化してみる [[Recording](https://www.youtube.com/watch?v=-ID-9mAbSgs&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
 * [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
-  - ProxmoxからvSphereに移行してみる [[Recording](https://www.youtube.com/watch?v=8vjZe5f-WFw&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
+  - ProxmoxからvSphereへ移行してみる [[Recording](https://www.youtube.com/watch?v=8vjZe5f-WFw&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
 * [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
   - SRMの謎 [[Recording](https://www.youtube.com/watch?v=ts7kb7X9caI&list=PLo45fa-pfArsr4GGYzfgyFJpBCctQbyKY)]
 
