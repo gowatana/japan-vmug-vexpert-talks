@@ -51,6 +51,50 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
+
+---
+## #44. 2025年01月08日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/341598/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+
+あけましておめでとうございます！  
+年明け早々ですが、さっそく第44回目の「vExpert が語る会」を開催します！
+
+2025年の初回は、第43回に引き続き、[vExperts Advent Calendar 2024](https://adventar.org/calendars/10310) の振り返りと、[Go Watanabe](https://vexpert.vmware.com/directory/521) による VCP-VCF 資格試験に向けたスペシャル勉強会第2弾を企画しています。
+
+みなさまのご参加お待ちしています！
+
+
+### Session Speakers
+
+vExperts Advent Calendar 2024 振り返り（後編）
+
+* [Akihiro Unemoto](https://vexpert.vmware.com/directory/11456)
+  - Terraform CloudでAvi Load BalancerのAlert設定を自動化してみた [[Recording](https://www.youtube.com/watch?v=4iR1qcyty-k&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+* [Wataru Unno](https://vexpert.vmware.com/directory/2790)
+  - Raspberry Piで学ぶ ESXi 第1回 ～ 第3回 [[Recording](https://www.youtube.com/watch?v=s3MPoNpC32M&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - vCenter で Okta を IdP として利用してみる [[Recording](https://www.youtube.com/watch?v=-8SkAfPIs_8&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+* [Masanori Nara](https://vexpert.vmware.com/directory/495)
+  - NSXとAWSをTerraformを使ってIPsecで接続する [[Recording](https://www.youtube.com/watch?v=ku9HcS8jasY&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+* [Yuki Kawamitsu](https://vexpert.vmware.com/directory/477)
+  - HCIBench 2.8.x の最新情報とストレージ性能検証の注意点 [[Recording](https://www.youtube.com/watch?v=cG1SiFjsJWU&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+* [Toshihisa Noguchi](https://vexpert.vmware.com/directory/4870)
+  - RVTOOLを使って仮想基盤のデータを取得する。 [[Recording](https://www.youtube.com/watch?v=xEZuuDH7f1k&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+* [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
+  - ESXi-Arm Fling v2.0 にしてみた [[Recording](https://www.youtube.com/watch?v=p1CqYgzduBo&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+
+VCP-VCF 勉強会
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCP-VCF 勉強会 第1回：構築の流れを把握する [[Recording](https://www.youtube.com/watch?v=f_ldksZ3njw&list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
 ---
 ## #43. 2024年12月27日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/340652/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs6tapSTuZNAhlo8I8-RuNI)]
 
