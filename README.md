@@ -53,6 +53,38 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 
 ---
+## #45. 2025年02月19日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/345536/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
+
+Japan VMUG UserCon 2025 の直後ですが、アクセルを緩めることなく第45回目の「vExpert が語る会」を開催します！
+
+2025年の2回目もさまざまなネタを用意しつつ、恒例となってきました [Go Watanabe](https://vexpert.vmware.com/directory/521) による VCP-VCF 資格試験に向けたスペシャル勉強会 第3弾も企画しています。
+
+みなさまのご参加お待ちしています！
+
+### Session Speakers
+
+vExperts Advent Calendar 2024 振り返り（後編）
+
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - JAPAN VMUG UserCon 2025 Review - VMUG UserCon 2025 ができるまで [[Recording](https://www.youtube.com/watch?v=SVMKgN_Yj2M&list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
+* [Naoshi Takahashi](https://vexpert.vmware.com/directory/10696)
+  - DSMでDBaaS のフォローアップ [[Recording](https://www.youtube.com/watch?v=H9a6iZK7BIg&list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
+
+VCP-VCF 勉強会
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCP-VCF 勉強会 第 2 回：実物で理解する VCF 用語集 [[Recording★準備中](URL)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+
+---
 ## #44. 2025年01月08日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/341598/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
 
 あけましておめでとうございます！  
