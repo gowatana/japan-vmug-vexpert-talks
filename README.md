@@ -53,6 +53,47 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 
 ---
+## #46. 2025年04月16日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/345536/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
+
+
+2025年の [vExpert Award](https://vexpert.vmware.com/directory/stats) が発表され、日本は52人の方が受賞されています！  
+受賞されたみなさま、おめでとうございます！
+
+惜しくも受賞を逃した方、2nd Half での受賞を目指す方はぜひこの「vExpert が語る会」に参加してアクティビティを積み重ねてみてはいかがでしょうか？
+
+ [Go Watanabe](https://vexpert.vmware.com/directory/521) による VCP-VCF 資格試験対策勉強会もさらに濃い(？)内容でお届けします。
+
+みなさまのご参加お待ちしています！
+
+### Session Speakers
+
+* [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
+  - VCF Operations のレポート機能をもっと便利に [[Recording](https://www.youtube.com/watch?v=jl6umg0NlI4&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+* [Takuya Ichijima](https://vexpert.vmware.com/directory/4604)
+  - VMware by Broadcomの無償版SWでやりくりするホームラボのススメ【2025年版】 [[Recording](https://www.youtube.com/watch?v=12E83URFaB8&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+* [Takumi Takahata](https://vexpert.vmware.com/directory/9436)
+  - Trial and error results for using iSCSI on small PCs [[Recording](https://www.youtube.com/watch?v=t-xptZTkhhQ&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+* [Kenichi Suzuki](https://vexpert.vmware.com/directory/3715)
+  - Usage MeterのCustomer Label設定 [[Recording](https://www.youtube.com/watch?v=-VK5U1tX_mI&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - How to use SDDC Manager [[Recording](https://www.youtube.com/watch?v=aIqUpERUYCc&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+* [Yusuke Hirata](https://vexpert.vmware.com/directory/7393)
+  - VMware ソフトウェア バイナリのダウンロード方法の変更 [[Recording](https://www.youtube.com/watch?v=RC-hSClxEK4&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+
+VCP-VCF 勉強会
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCP-VCF 勉強会 第 3 回：5分くらいで把握する VMware Validated Solutions [[Recording](https://www.youtube.com/watch?v=3vJru5YD2NA&list=PLo45fa-pfArsML8SKig-F260I-6aA3Cuy)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #45. 2025年02月19日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/345536/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
 
 Japan VMUG UserCon 2025 の直後ですが、アクセルを緩めることなく第45回目の「vExpert が語る会」を開催します！
@@ -62,8 +103,6 @@ Japan VMUG UserCon 2025 の直後ですが、アクセルを緩めることな�
 みなさまのご参加お待ちしています！
 
 ### Session Speakers
-
-vExperts Advent Calendar 2024 振り返り（後編）
 
 * [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
   - JAPAN VMUG UserCon 2025 Review - VMUG UserCon 2025 ができるまで [[Recording](https://www.youtube.com/watch?v=SVMKgN_Yj2M&list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
@@ -82,7 +121,6 @@ VCP-VCF 勉強会
 - [Go Watanabe](https://vexpert.vmware.com/directory/521)
 - [Masato Narishige](https://vexpert.vmware.com/directory/3805)
 - [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
-
 
 ---
 ## #44. 2025年01月08日（金）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/341598/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs3ZMI5BOvMLvN4DPgbRSnu)]
