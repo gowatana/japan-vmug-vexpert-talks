@@ -51,6 +51,36 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
+---
+## #47. 2025年05月19日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/355176/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
+
+「VMware vSphere 徹底入門」出版記念イベント直後ではありますが、5月も vExpert が語る会を開催します！
+
+まだまだ登壇者も募集していますので、語りたい方も含めてみなさまのご参加をお待ちしています！
+
+### Session Speakers
+
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - Author Spotlight Event "VMware vSphere 徹底入門" Review [[Recording](https://www.youtube.com/watch?v=aq9HwrvVlA8&list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - シャチク²ラウド 〜 VCF はじめてみた（準備編） [[Recording](https://www.youtube.com/watch?v=32pNTuCN9u8&list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - Author Spotlight Event で語られなかった "VMware vSphere 徹底入門" 裏話 FAQ [[Recording](https://www.youtube.com/watch?v=3lMKMUm8T18&list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Go to vExpert Mk-VII / vExpert Subprogram ごにょごにょ [[Recording](https://www.youtube.com/watch?v=AgjNfqiW5dI&list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
+
+VCP-VCF 勉強会
+
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCP-VCF 勉強会 第4回：春の VCF Automation まつり（環境構築の流れのおさらい） [[Recording](https://www.youtube.com/watch?v=vLe9idURIKs&list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
 ---
 ## #46. 2025年04月16日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/345536/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
