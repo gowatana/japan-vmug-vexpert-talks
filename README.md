@@ -52,6 +52,36 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #48. 2025年06月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/358748/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+
+お待たせしました！ 6月の vExpert が語る会は、先日発表された vExpert サブ プログラムの話題を中心にお届けします。
+
+みなさまのご参加をお待ちしています！
+
+### Session Speakers
+
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - vExpert VCF & PRO [[Recording](https://www.youtube.com/watch?v=EH8IuCNYHZI&list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - VCF 9 について語ろう [[Recording](https://www.youtube.com/watch?v=3bzItwUj45w&list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VMware PowerCLI 13 の次は VCF PowerCLI 9。 [[Recording](https://www.youtube.com/watch?v=deVbwTRaNkY&list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - vExpert Subprogram / PRO & Security ごにょごにょ [[Recording](https://www.youtube.com/watch?v=jMxpZRcb83M&list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - 病院情シスがvExpert Securityに選ばれた舞台裏 ～ちょっと変わった受賞報告～ [[Recording](https://www.youtube.com/watch?v=VuDS1k4aDho&list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCF Automation まつり：後編 - VCF Automation Q&A [[Recording](https://www.youtube.com/watch?v=Mm5z0rt-lXs&list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #47. 2025年05月19日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/355176/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvIqI-ZgDgCz_sSv2h9hikQ)]
 
 「VMware vSphere 徹底入門」出版記念イベント直後ではありますが、5月も vExpert が語る会を開催します！
