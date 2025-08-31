@@ -113,7 +113,7 @@ VCP-VCF 勉強会
 - [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
 ---
-## #46. 2025年04月16日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/345536/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
+## #46. 2025年04月16日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/351263/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAruv2PYen2OKBflT1ORrxfDe)]
 
 
 2025年の [vExpert Award](https://vexpert.vmware.com/directory/stats) が発表され、日本は52人の方が受賞されています！  
