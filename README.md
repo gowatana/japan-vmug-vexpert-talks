@@ -52,6 +52,40 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #49. 2025年09月24日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/369326/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
+
+お待たせしました！ 9月の vExpert が語る会は 2nd-half 受賞者のみなさまからの発表と、US Explore の話題を中心にお届けします。
+
+みなさまのご参加をお待ちしています！
+
+### Session Speakers
+
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - VCF 9.0 で見てみる Live Patch [[Recording](https://www.youtube.com/watch?v=wEZBQR3EhDc&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
+* [Jumpei Matsuhashi](https://vexpert.vmware.com/directory/13535)
+  - VCP VMware Cloud Foundation "9.0" Architect とってみた [[Recording★準備中](URL)]
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
+  - VMware Explore 2025 見聞録 [[Recording★準備中](URL)]
+* Kunihiro Yamazaki
+  - VMware Explore 2025 Las Vegas 参加レポート [[Recording](https://www.youtube.com/watch?v=TgYtrrMp97E&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
+* [Kazuhiro Sota](https://vexpert.vmware.com/directory/13555)
+  - アレの話(令和最新版) [[Recording★準備中](URL)]
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - Explore @Las Vegas 行ってきた！ [[Recording](https://www.youtube.com/watch?v=cfDnUTFE8cw&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
+* [Sho Mayama](https://vexpert.vmware.com/directory/13255)
+  - 自宅でもできる!! AI on vGPU + VCF9 - ローカルLLM編 [[Recording](https://www.youtube.com/watch?v=CuXIrT6EJPU&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]  
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - New vExpert Badge でステッカーを作ってみた [[Recording](https://www.youtube.com/watch?v=-vN46mdb0Lk&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #48. 2025年06月18日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/358748/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArulKno8bKgGc9Nr0T5eNR-X)]
 
 お待たせしました！ 6月の vExpert が語る会は、先日発表された vExpert サブ プログラムの話題を中心にお届けします。
