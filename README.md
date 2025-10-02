@@ -65,11 +65,11 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Jumpei Matsuhashi](https://vexpert.vmware.com/directory/13535)
   - VCP VMware Cloud Foundation "9.0" Architect とってみた [[Recording★準備中](URL)]
 * [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
-  - VMware Explore 2025 見聞録 [[Recording★準備中](URL)]
+  - VMware Explore 2025 見聞録 [[Recording](https://www.youtube.com/watch?v=6Zzichl7XbM&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * Kunihiro Yamazaki
   - VMware Explore 2025 Las Vegas 参加レポート [[Recording](https://www.youtube.com/watch?v=TgYtrrMp97E&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * [Kazuhiro Sota](https://vexpert.vmware.com/directory/13555)
-  - アレの話(令和最新版) [[Recording★準備中](URL)]
+  - アレの話(令和最新版) [[Recording](https://www.youtube.com/watch?v=ftIv0Jhue4o&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
   - Explore @Las Vegas 行ってきた！ [[Recording](https://www.youtube.com/watch?v=cfDnUTFE8cw&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * [Sho Mayama](https://vexpert.vmware.com/directory/13255)
