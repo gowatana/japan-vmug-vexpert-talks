@@ -63,7 +63,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
   - VCF 9.0 で見てみる Live Patch [[Recording](https://www.youtube.com/watch?v=wEZBQR3EhDc&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * [Jumpei Matsuhashi](https://vexpert.vmware.com/directory/13535)
-  - VCP VMware Cloud Foundation "9.0" Architect とってみた [[Recording★準備中](URL)]
+  - VCP VMware Cloud Foundation "9.0" Architect とってみた [[Recording](https://www.youtube.com/watch?v=1DPEyybwuns&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
   - VMware Explore 2025 見聞録 [[Recording](https://www.youtube.com/watch?v=6Zzichl7XbM&list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 * Kunihiro Yamazaki
