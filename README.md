@@ -52,6 +52,32 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #49. 2025年10月09日（木）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/370675/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArskN6KE3xeG0bTr-6Tk4SXK)]
+
+vExpert が語る会、あっという間に50回目を迎えることになりました！  
+今回は少しゆっくり目に QA 時間も確保しながら楽しく進めていきたいと思います。
+
+みなさまのご参加をお待ちしています！
+
+### Session Speakers
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - VKSクラスタのネットワークあれこれ [[Recording](https://www.youtube.com/watch?v=o8MrxiNcXQE&list=PLo45fa-pfArskN6KE3xeG0bTr-6Tk4SXK&index=1&pp=iAQB)]
+* [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
+  - Japan VMUG で薄い本を作ってみた（ちょい出し） [[Recording](https://www.youtube.com/watch?v=CjsdR15HMcA&list=PLo45fa-pfArskN6KE3xeG0bTr-6Tk4SXK&index=2&pp=iAQB)]
+* [Jun Shimizu](https://vexpert.vmware.com/directory/4697)
+  - Proxmox 触ってみたけどやっぱり VMware のほうがいい [[Recording](https://www.youtube.com/watch?v=656DymRmpqc&list=PLo45fa-pfArskN6KE3xeG0bTr-6Tk4SXK&index=3&pp=iAQB)]
+* [Kaz IGARASHI](https://vexpert.vmware.com/directory/1653)
+  - VMUG 流 Explore の楽しみ方 [[Recording](https://www.youtube.com/watch?v=oaHzVXfNv04&list=PLo45fa-pfArskN6KE3xeG0bTr-6Tk4SXK&index=4&pp=iAQB)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #49. 2025年09月24日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/369326/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtaZOIVURO1aS_RvbFPdNOy)]
 
 お待たせしました！ 9月の vExpert が語る会は 2nd-half 受賞者のみなさまからの発表と、US Explore の話題を中心にお届けします。
