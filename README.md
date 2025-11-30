@@ -52,6 +52,36 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #51. 2025年11月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/374708/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
+
+vExpert が語る会、あっという間に50回目を迎えることになりました！  
+今回は少しゆっくり目に QA 時間も確保しながら楽しく進めていきたいと思います。
+
+みなさまのご参加をお待ちしています！
+
+### Session Speakers
+* [Sho Mayama](https://vexpert.vmware.com/directory/13255)
+  - 自宅でもできる!! VCF9 "評価の最終日まで遊んで得たまとめ" [[Recording](https://www.youtube.com/watch?v=hc7ZrMizyeQ&list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
+
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - VKSクラスタにAKO入れてみる [[Recording](https://www.youtube.com/watch?v=Gyv0e1-JZj0&list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
+
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - JAPAN VMUG in EXPLORE on Tour Tokyo 2025 and Other [[Recording](https://www.youtube.com/watch?v=JFVNS_RqUnI&list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Go to vExpert Mk-VIII [[Recording](https://www.youtube.com/watch?v=l-piQDtdKng&list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - vExperts Advent Calendar 2025 のおさそい（と HOL の Tips） [[Recording](https://www.youtube.com/watch?v=aaMeVEhnMec&list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #50. 2025年10月09日（木）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/370675/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArskN6KE3xeG0bTr-6Tk4SXK)]
 
 vExpert が語る会、あっという間に50回目を迎えることになりました！  
