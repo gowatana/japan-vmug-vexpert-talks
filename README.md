@@ -54,10 +54,9 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 ---
 ## #51. 2025年11月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/374708/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
 
-vExpert が語る会、あっという間に50回目を迎えることになりました！  
-今回は少しゆっくり目に QA 時間も確保しながら楽しく進めていきたいと思います。
+VMware Explore on Tour Tokyo の興奮も冷めやらないままですが、vExpert が語る会も平常運転で開催したいと思います！
 
-みなさまのご参加をお待ちしています！
+みなさまのご参加をお待ちしています。
 
 ### Session Speakers
 * [Sho Mayama](https://vexpert.vmware.com/directory/13255)
