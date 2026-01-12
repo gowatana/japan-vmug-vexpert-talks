@@ -50,6 +50,44 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 # 2. Events
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
+---
+## #52. 2026年01月07日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/379989/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+
+2026 年最初の vExpert が語る会は Advent Calendar 2025 の振り返りです！
+
+みなさまのご参加をお待ちしています。
+
+### Session Speakers
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - はじめに（と vExperts Advent Calendar 2025 1日目の投稿） [[Recording](https://www.youtube.com/watch?v=Aw4LdJwPNLg&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
+  - 断腸の思いで vSpere から Proxmox VE に乗り換える [[Recording](https://www.youtube.com/watch?v=8xDfFpExSvs&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - VMware Avi Load Balancer 31.2.1 [[Recording](https://www.youtube.com/watch?v=R8azlQrCT8s&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - 「社内でAIを使いたい」プライベートAIについて調べてみた！ [[Recording](https://www.youtube.com/watch?v=Qe_w1e3LWG4&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - Triple VCP-VCF9 achiever になりました [[Recording](https://www.youtube.com/watch?v=DxyJNX0Be5k&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Jumpei Matsuhashi](https://vexpert.vmware.com/directory/13535)
+  - VCF Operations configuration drift!! [[Recording](https://www.youtube.com/watch?v=v9b3VyZ-7SU&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - Report on「Japan VMUG & Japan EUC Nexus Nov Meetup - OKINAWA」 [[Recording](https://www.youtube.com/watch?v=_5-4_cUiYvo&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982)
+  - 【怒りから革新へ】技術力ゼロメーカーを切り捨て、LLM/生成AIを見据えた「VDI電子カルテ基盤」構築記 [[Recording](https://www.youtube.com/watch?v=htuI7wQc6J8&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702)
+  - 【VCFのあれこれ】vSphere SupervisorにAvi LBを使ってみる - Part1：Avi Controllerのデプロイ [[Recording](https://www.youtube.com/watch?v=rDpBehUxq_8&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
+  - VCF Automation All Apps Orgs ：ネットワークモデルを知るための情報集 [[Recording](https://www.youtube.com/watch?v=am3tWNg-Hp4&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+* [Sho Mayama](https://vexpert.vmware.com/directory/13255)
+  - VMUGライセンスの取得方法と、VCF/VVF 9 の認証方法 [[Recording](https://www.youtube.com/watch?v=Hh2v1HzwQms&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
 
 ---
 ## #51. 2025年11月12日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/374708/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfAru0FUO77OgP6JsYhplBhA3D)]
