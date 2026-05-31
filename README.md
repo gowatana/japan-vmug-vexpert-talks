@@ -51,6 +51,34 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 ---
+## #55. 2026年05月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/393541/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
+
+お待たせしました。2026年5月度のvExpertが語る会を開催します。
+
+みなさまのご参加をお待ちしています。
+
+### Session Speakers
+
+* [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
+  - 技書博参戦記 [[Recording](https://www.youtube.com/watch?v=uHdzspeHjtQ&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
+* Hiroshi Yamaguchi
+  - vExpert 落選した俺の話聞きたい？ [[Recording★準備中](URL)]
+* [Sho Mayama](https://vexpert.vmware.com/directory/13255)
+  - VCF 9.1 Automation で始めるやさしいコンテナ基盤 kubectlなしで始めるおうちコンテナ入門編 [[Recording](https://www.youtube.com/watch?v=_uuNBx9X8nE&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
+* [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+  - Go to vExpert Mk-Ⅹ / Subprogram [[Recording](https://www.youtube.com/watch?v=6T9EnrMH9Xc&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - ESX 上の Cloud-init。（6日後にはじめる Ubuntu） [[Recording](https://www.youtube.com/watch?v=rwX8dGcDU5I&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #54. 2026年04月22日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/390652/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArvQN0soU1MLENk2tZgcxle1)]
 
 お待たせしました。2026年4月度のvExpertが語る会を開催します。  
