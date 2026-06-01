@@ -62,7 +62,7 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 * [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
   - 技書博参戦記 [[Recording](https://www.youtube.com/watch?v=uHdzspeHjtQ&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
 * Hiroshi Yamaguchi
-  - vExpert 落選した俺の話聞きたい？ [[Recording★準備中](URL)]
+  - vExpert 落選した俺の話聞きたい？ [[Recording](https://www.youtube.com/watch?v=q63wI9V-NcU&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
 * [Sho Mayama](https://vexpert.vmware.com/directory/13255)
   - VCF 9.1 Automation で始めるやさしいコンテナ基盤 kubectlなしで始めるおうちコンテナ入門編 [[Recording](https://www.youtube.com/watch?v=_uuNBx9X8nE&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
 * [Masato Narishige](https://vexpert.vmware.com/directory/3805)
