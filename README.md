@@ -50,6 +50,36 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 # 2. Events
 
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
+
+---
+## #56. 2026年07月01日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/397684/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLB_Uknjmq3oc)]
+
+お待たせしました．2026 年 6-7月度の vExpert が語る会を開催します。  
+今回は、5月末に発表された vExpert Subprogram 受賞者によるセッションを中心にお届けします。
+
+みなさまのご参加をお待ちしています。
+
+### Session Speakers
+
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910) vExpert VCF
+  - VCF 9.1 VPCs 分散接続方式とVNAを知る [[Recording](https://www.youtube.com/watch?v=pOSeJvs5OFY&list=PLB_Uknjmq3oc)]
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - Broadcom's Activate @バンコク 行ってきた！ [[Recording](https://www.youtube.com/watch?v=v4xhkSMyh98&list=PLB_Uknjmq3oc)]
+* [Satoshi Imai](https://vexpert.vmware.com/directory/5585)
+  - Apple Silicon Mac の Fusion で ESX は役に立つのか？ [[Recording](https://www.youtube.com/watch?v=sE0ry6_NITo&list=PLB_Uknjmq3oc)]
+* [Tomoyuki Kawata](https://vexpert.vmware.com/directory/3982) vExpert VCF,  vExpert Security
+  - ロックされたパスワードの『物理的』デプロイ ～旧電カルP2Vと2026年サブプログラムへの報告～ [[Recording](https://www.youtube.com/watch?v=ear_7aMydvI&list=PLB_Uknjmq3oc)]
+* [Atomu Otsuka](https://vexpert.vmware.com/directory/11702) vExpert VCF
+  - VCF管理サービスって何すか [[Recording](https://www.youtube.com/watch?v=LpNbdKqtzE8&list=PLB_Uknjmq3oc)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
 ---
 ## #55. 2026年05月20日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/393541/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix)]
 
