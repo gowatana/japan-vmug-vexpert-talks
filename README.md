@@ -52,6 +52,35 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #57. 2026年07月15日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/399273/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLG4cFdopF4ZI)]
+
+先日 #56 を開催したばかりですが、2026年7月度の「 vExpert が語る」として #57 を開催します。
+
+今回は、「中の人」に始まり、「はじめてのおつかい（VCF構築）」など様々な題材で皆様をお待ちしております。
+
+みなさまのご参加をお待ちしています。
+
+### Session Speakers
+
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - はじめてのおつかい ESXiも構築した事ない俺が挑むVCF9.1構築記-1 「色々ハマってます」 [[Recording](https://www.youtube.com/watch?v=szifC1wXHz4&list=PLG4cFdopF4ZI)]
+* [Masahiro Irie](https://vexpert.vmware.com/directory/3845)
+  - その互換性、大丈夫ですか…？ [[Recording](https://www.youtube.com/watch?v=vmgf6Resuu4&list=PLG4cFdopF4ZI)]
+* [Sho Mayama](https://vexpert.vmware.com/directory/13255)
+  - Wi-FiでNSX Overlayにつないでみた 電波の先にNSXを [[Recording](https://www.youtube.com/watch?v=0oPYDnTGvYc&list=PLG4cFdopF4ZI)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCF 9.1 での AD 認証の様子。 [[Recording](https://www.youtube.com/watch?v=q8BLju8iKlU&list=PLG4cFdopF4ZI)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+
+---
 ## #56. 2026年07月01日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/397684/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLB_Uknjmq3oc)]
 
 お待たせしました．2026 年 6-7月度の vExpert が語る会を開催します。  
