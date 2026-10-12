@@ -52,6 +52,34 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #58. 2026年10月07日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/401901/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLG4cFdopF4ZI)]
+
+2026年10月度の「 vExpert が語る」を開催します。
+
+Explore US の話から薄い本まで、今回も色々なネタを満載してお届けします！
+
+みなさまのご参加をお待ちしています。
+
+
+### Session Speakers
+
+* [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
+  - VMUG の薄い本が充実してきました [[Recording](https://www.youtube.com/watch?v=Ey9W0dctgRU&list=PLGEuvQ5qWL_M)]
+* [Kan Chiyoda ](https://vexpert.vmware.com/directory/3910)
+  - VMware Explore US 2026 見聞録 [[Recording★準備中](URL)]
+* [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
+  - データから見るVMware Explore 2026 [[Recording](https://www.youtube.com/watch?v=rC0yD3Vtw9k&list=PLGEuvQ5qWL_M)]
+* [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+  - NetApp INSIGHT 2026 に行ってみた [[Recording](https://www.youtube.com/watch?v=O9MSFKSwKS4&list=PLGEuvQ5qWL_M)]
+* [Go Watanabe](https://vexpert.vmware.com/directory/521)
+  - VCF の Avi Load Balancer への道 [[Recording](https://www.youtube.com/watch?v=ZBtewPT47_w&list=PLGEuvQ5qWL_M)]
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+
+---
 ## #57. 2026年07月15日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/399273/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLG4cFdopF4ZI)]
 
 先日 #56 を開催したばかりですが、2026年7月度の「 vExpert が語る」として #57 を開催します。
