@@ -66,7 +66,7 @@ Explore US の話から薄い本まで、今回も色々なネタを満載して
 * [Ikuma MINAGAWA](https://vexpert.vmware.com/directory/11443)
   - VMUG の薄い本が充実してきました [[Recording](https://www.youtube.com/watch?v=Ey9W0dctgRU&list=PLGEuvQ5qWL_M)]
 * [Kan Chiyoda ](https://vexpert.vmware.com/directory/3910)
-  - VMware Explore US 2026 見聞録 [[Recording★準備中](URL)]
+  - VMware Explore US 2026 見聞録 [[Recording](https://www.youtube.com/watch?v=3ya6OP0XnIc&list=PLGEuvQ5qWL_M)]
 * [Taiki Tonogai](https://vexpert.vmware.com/directory/11856)
   - データから見るVMware Explore 2026 [[Recording](https://www.youtube.com/watch?v=rC0yD3Vtw9k&list=PLGEuvQ5qWL_M)]
 * [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
