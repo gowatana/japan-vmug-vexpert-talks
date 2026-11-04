@@ -52,9 +52,35 @@ Japan VMUG (VMware User Group) と vExpert Pro とで、「vExpertが語る会�
 イベント案内は vmug.com に用意されますが、（現状では）終了したイベントが非表示になってしまうので、こちらにも開催履歴を用意しました。
 
 ---
+## #59. 2026年10月27日（火）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/410342/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLaeanrolujbY)]
+
+2026年10月2回目の「vExpert が語る」を開催します。
+
+みなさま奮ってご参加ください！
+
+### Session Speakers
+
+* [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+  - はじめてのおつかい ESXも構築した事ない俺が挑むVCF9.1構築記-2「パスワードに潜む罠」 [[Recording](https://www.youtube.com/watch?v=7mHMBeiYTsY&list=PLaeanrolujbY)]
+* [Atomu Otsuka ](https://vexpert.vmware.com/directory/11702)
+  - VCF Opsって実際どうなの [[Recording](https://www.youtube.com/watch?v=ePXqm3Yjj5k&list=PLaeanrolujbY)]
+* [Kazuyoshi Yamada](https://vexpert.vmware.com/directory/9440)
+  - VCF Opsでダッシュボードを作成する [[Recording](https://www.youtube.com/watch?v=vGugeblEM_4&list=PLaeanrolujbY)]
+* [Kan Chiyoda](https://vexpert.vmware.com/directory/3910)
+  - vDefend 9.1.1 入門 [[Recording](https://www.youtube.com/watch?v=4yaxNGUUKd0&list=PLaeanrolujbY)]
+
+### Moderator
+- [Atsushi Kimura](https://vexpert.vmware.com/directory/8813)
+
+###  Event Organizers(vExpert Pro)
+- [Go Watanabe](https://vexpert.vmware.com/directory/521)
+- [Masato Narishige](https://vexpert.vmware.com/directory/3805)
+- [Kaz Igarashi](https://vexpert.vmware.com/directory/1653)
+
+---
 ## #58. 2026年10月07日（水）18:00 - 20:00 [[Event Page](https://vmug-jp.connpass.com/event/401901/)][[Recording Playlist](https://www.youtube.com/playlist?list=PLG4cFdopF4ZI)]
 
-2026年10月度の「 vExpert が語る」を開催します。
+2026年10月度の「vExpert が語る」を開催します。
 
 Explore US の話から薄い本まで、今回も色々なネタを満載してお届けします！
 
