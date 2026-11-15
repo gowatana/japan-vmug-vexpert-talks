@@ -311,10 +311,19 @@ const { number, year, date, time, title, eventLink, recordingLink, speakers, mod
     list-style: none;
     padding-left: 0;
     margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
   }
 
   .moderator-list li, .organizer-list li {
     padding: 0.25rem 0;
+    display: inline;
+  }
+
+  .moderator-list li:not(:last-child)::after, .organizer-list li:not(:last-child)::after {
+    content: ",";
+    margin-right: 0.25rem;
   }
 
   .moderator-link, .organizer-link {
