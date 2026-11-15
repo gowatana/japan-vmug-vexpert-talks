@@ -1,0 +1,328 @@
+---
+interface Speaker {
+  name: string;
+  link?: string;
+  title: string;
+  recordingLink?: string;
+}
+
+interface Moderator {
+  name: string;
+  link?: string;
+}
+
+interface Organizer {
+  name: string;
+  link?: string;
+}
+
+interface Props {
+  number: number;
+  year: number;
+  date: string;
+  time: string;
+  title: string;
+  eventLink?: string;
+  recordingLink?: string;
+  speakers: Speaker[];
+  moderators: Moderator[];
+  organizers: Organizer[];
+}
+
+const { number, year, date, time, title, eventLink, recordingLink, speakers, moderators, organizers } = Astro.props;
+---
+
+<div class="event-card">
+  <div class="event-header">
+    <div class="header-top">
+      <h3>Event #{number}</h3>
+      <div class="header-links">
+        {eventLink && (
+          <a href={eventLink} class="link-button" target="_blank" rel="noopener" title="Event Page">
+            <img src="/icon-event.svg" alt="Event" class="icon" />
+            Event Page
+          </a>
+        )}
+        {recordingLink && (
+          <a href={recordingLink} class="link-button" target="_blank" rel="noopener" title="Recordings">
+            <img src="/icon-film-strip.svg" alt="Film Strip" class="icon" />
+            Recordings
+          </a>
+        )}
+      </div>
+    </div>
+    {title && <div class="event-title">{title}</div>}
+    <div class="event-meta">
+      <span class="date">{year}年 {date}</span>
+      <span class="time">{time}</span>
+    </div>
+  </div>
+
+  <div class="event-body">
+    <section class="speakers-section">
+      <h4>Speakers</h4>
+      <ul class="speakers-list">
+        {speakers.map((speaker) => (
+          <li>
+            {speaker.link ? (
+              <a href={speaker.link} target="_blank" rel="noopener" class="speaker-link">
+                <strong>{speaker.name}</strong>
+              </a>
+            ) : (
+              <strong>{speaker.name}</strong>
+            )}
+            <div class="session-title">{speaker.title}</div>
+            {speaker.recordingLink && (
+              <a href={speaker.recordingLink} class="recording-link" target="_blank" rel="noopener">
+                <img src="/icon-film-strip.svg" alt="Film Strip" class="icon-small" />
+                Recording
+              </a>
+            )}
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="moderator-section">
+      {moderators && moderators.length > 0 && (
+        <>
+          <div class="section-label">Moderators:</div>
+          <ul class="moderator-list">
+            {moderators.map((moderator) => (
+              <li>
+                {moderator.link ? (
+                  <a href={moderator.link} target="_blank" rel="noopener" class="moderator-link">
+                    {moderator.name}
+                  </a>
+                ) : (
+                  <span>{moderator.name}</span>
+                )}
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
+    </section>
+
+    <section class="organizer-section">
+      <div class="section-label">Organizers:</div>
+      {organizers && organizers.length > 0 ? (
+        <ul class="organizer-list">
+          {organizers.map((organizer) => (
+            <li>
+              {organizer.link ? (
+                <a href={organizer.link} target="_blank" rel="noopener" class="organizer-link">
+                  {organizer.name}
+                </a>
+              ) : (
+                <span>{organizer.name}</span>
+              )}
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="empty-list">（未設定）</p>
+      )}
+    </section>
+  </div>
+</div>
+
+<style>
+  .event-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 0.4rem;
+    margin-bottom: 2rem;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+  }
+
+  .event-card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .event-header {
+    background: linear-gradient(135deg, #f5f5f5 0%, #efefef 100%);
+    padding: 1.5rem;
+    border-bottom: 2px solid #0072a3;
+  }
+
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .event-header h3 {
+    margin: 0;
+    color: #0072a3;
+  }
+
+  .header-links {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  .link-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.8rem;
+    background-color: #0072a3;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+    font-size: 0.9rem;
+    text-decoration: none;
+    border-radius: 0.3rem;
+    transition: background-color 0.3s ease;
+  }
+
+  .link-button:hover {
+    background-color: #004b87;
+  }
+
+  .link-button .icon {
+    width: 1.2rem;
+    height: 1.2rem;
+    filter: brightness(0) invert(1);
+  }
+
+  .event-title {
+    font-size: 0.95rem;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+  }
+
+  .event-meta {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.95rem;
+    color: #666;
+  }
+
+  .date, .time {
+    display: flex;
+    align-items: center;
+  }
+
+  .event-body {
+    padding: 1.5rem;
+  }
+
+  .speakers-section, .moderator-section {
+    margin-bottom: 1rem;
+  }
+
+  .speakers-section h4 {
+    margin-bottom: 0.75rem;
+    color: #0072a3;
+    font-size: 1.05rem;
+  }
+
+  .speakers-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .speakers-list li {
+    padding: 0.75rem;
+    background-color: #f9f9f9;
+    margin-bottom: 0.5rem;
+    border-radius: 0.3rem;
+    border-left: 3px solid #60b515;
+  }
+
+  .session-title {
+    font-size: 0.9rem;
+    color: #555;
+    margin: 0.25rem 0 0 0;
+    font-style: italic;
+  }
+
+  .recording-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    margin-top: 0.5rem;
+    color: #0072a3;
+    text-decoration: none;
+    font-size: 0.85rem;
+  }
+
+  .recording-link:hover {
+    text-decoration: underline;
+  }
+
+  .recording-link .icon-small {
+    width: 0.9rem;
+    height: 0.9rem;
+  }
+
+  .speaker-link {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .speaker-link:hover {
+    color: #0072a3;
+  }
+
+  .moderator-link {
+    color: #0072a3;
+    text-decoration: none;
+  }
+
+  .moderator-link:hover {
+    text-decoration: underline;
+  }
+
+  .moderator-section {
+    font-size: 0.95rem;
+    color: #666;
+    padding: 0.75rem;
+    background-color: #f9f9f9;
+    border-radius: 0.3rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .organizer-section {
+    font-size: 0.95rem;
+    color: #666;
+    padding: 0.75rem;
+    background-color: #f9f9f9;
+    border-radius: 0.3rem;
+  }
+
+  .empty-list {
+    margin: 0;
+    color: #999;
+    font-style: italic;
+  }
+
+  .section-label {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+
+  .moderator-list, .organizer-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  .moderator-list li, .organizer-list li {
+    padding: 0.25rem 0;
+  }
+
+  .moderator-link, .organizer-link {
+    color: #0072a3;
+    text-decoration: none;
+  }
+
+  .moderator-link:hover, .organizer-link:hover {
+    text-decoration: underline;
+  }
+</style>

@@ -1,0 +1,29 @@
+{
+  "name": "japan-vmug-vexpert-talks",
+  "version": "1.0.0",
+  "description": "![top](./files/top-image.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowatana/japan-vmug-vexpert-talks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gowatana/japan-vmug-vexpert-talks/issues"
+  },
+  "homepage": "https://github.com/gowatana/japan-vmug-vexpert-talks#readme",
+  "dependencies": {
+    "@clr/core": "^4.0.15",
+    "@clr/ui": "^18.5.1",
+    "astro": "^7.4.12"
+  }
+}

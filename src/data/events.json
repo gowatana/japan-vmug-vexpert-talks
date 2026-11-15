@@ -1,0 +1,470 @@
+[
+  {
+    "number": 59,
+    "year": 2026,
+    "date": "10月27日（火）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/410342/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLaeanrolujbY",
+    "speakers": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813",
+        "title": "はじめてのおつかい ESXも構築した事ない俺が挑むVCF9.1構築記-2「パスワードに潜む罠」",
+        "recordingLink": "https://www.youtube.com/watch?v=7mHMBeiYTsY&list=PLaeanrolujbY"
+      },
+      {
+        "name": "Atomu Otsuka",
+        "link": "https://vexpert.vmware.com/directory/11702",
+        "title": "VCF Opsって実際どうなの",
+        "recordingLink": "https://www.youtube.com/watch?v=ePXqm3Yjj5k&list=PLaeanrolujbY"
+      },
+      {
+        "name": "Kazuyoshi Yamada",
+        "link": "https://vexpert.vmware.com/directory/9440",
+        "title": "VCF Opsでダッシュボードを作成する",
+        "recordingLink": "https://www.youtube.com/watch?v=vGugeblEM_4&list=PLaeanrolujbY"
+      },
+      {
+        "name": "Kan Chiyoda",
+        "link": "https://vexpert.vmware.com/directory/3910",
+        "title": "vDefend 9.1.1 入門",
+        "recordingLink": "https://www.youtube.com/watch?v=4yaxNGUUKd0&list=PLaeanrolujbY"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "year": 2026,
+    "date": "10月07日（水）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/401901/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLG4cFdopF4ZI",
+    "speakers": [
+      {
+        "name": "Ikuma MINAGAWA",
+        "link": "https://vexpert.vmware.com/directory/11443",
+        "title": "VMUG の薄い本が充実してきました",
+        "recordingLink": "https://www.youtube.com/watch?v=Ey9W0dctgRU&list=PLGEuvQ5qWL_M"
+      },
+      {
+        "name": "Kan Chiyoda",
+        "link": "https://vexpert.vmware.com/directory/3910",
+        "title": "VMware Explore US 2026 見聞録",
+        "recordingLink": "https://www.youtube.com/watch?v=3ya6OP0XnIc&list=PLGEuvQ5qWL_M"
+      },
+      {
+        "name": "Taiki Tonogai",
+        "link": "https://vexpert.vmware.com/directory/11856",
+        "title": "データから見るVMware Explore 2026",
+        "recordingLink": "https://www.youtube.com/watch?v=rC0yD3Vtw9k&list=PLGEuvQ5qWL_M"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653",
+        "title": "NetApp INSIGHT 2026 に行ってみた",
+        "recordingLink": "https://www.youtube.com/watch?v=O9MSFKSwKS4&list=PLGEuvQ5qWL_M"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521",
+        "title": "VCF の Avi Load Balancer への道",
+        "recordingLink": "https://www.youtube.com/watch?v=ZBtewPT47_w&list=PLGEuvQ5qWL_M"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Japan VMUG Organizers"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "year": 2026,
+    "date": "07月15日（水）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/399273/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLG4cFdopF4ZI",
+    "speakers": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813",
+        "title": "はじめてのおつかい ESXiも構築した事ない俺が挑むVCF9.1構築記-1 「色々ハマってます」",
+        "recordingLink": "https://www.youtube.com/watch?v=szifC1wXHz4&list=PLG4cFdopF4ZI"
+      },
+      {
+        "name": "Masahiro Irie",
+        "link": "https://vexpert.vmware.com/directory/3845",
+        "title": "その互換性、大丈夫ですか…？",
+        "recordingLink": "https://www.youtube.com/watch?v=vmgf6Resuu4&list=PLG4cFdopF4ZI"
+      },
+      {
+        "name": "Sho Mayama",
+        "link": "https://vexpert.vmware.com/directory/13255",
+        "title": "Wi-FiでNSX Overlayにつないでみた 電波の先にNSXを",
+        "recordingLink": "https://www.youtube.com/watch?v=0oPYDnTGvYc&list=PLG4cFdopF4ZI"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521",
+        "title": "VCF 9.1 での AD 認証の様子。",
+        "recordingLink": "https://www.youtube.com/watch?v=q8BLju8iKlU&list=PLG4cFdopF4ZI"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "year": 2026,
+    "date": "07月01日（水）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/397684/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLB_Uknjmq3oc",
+    "speakers": [
+      {
+        "name": "Kan Chiyoda",
+        "link": "https://vexpert.vmware.com/directory/3910",
+        "title": "VCF 9.1 VPCs 分散接続方式とVNAを知る",
+        "recordingLink": "https://www.youtube.com/watch?v=pOSeJvs5OFY&list=PLB_Uknjmq3oc"
+      },
+      {
+        "name": "Taiki Tonogai",
+        "link": "https://vexpert.vmware.com/directory/11856",
+        "title": "Broadcom's Activate @バンコク 行ってきた！",
+        "recordingLink": "https://www.youtube.com/watch?v=v4xhkSMyh98&list=PLB_Uknjmq3oc"
+      },
+      {
+        "name": "Satoshi Imai",
+        "link": "https://vexpert.vmware.com/directory/5585",
+        "title": "Apple Silicon Mac の Fusion で ESX は役に立つのか？",
+        "recordingLink": "https://www.youtube.com/watch?v=sE0ry6_NITo&list=PLB_Uknjmq3oc"
+      },
+      {
+        "name": "Tomoyuki Kawata",
+        "link": "https://vexpert.vmware.com/directory/3982",
+        "title": "ロックされたパスワードの『物理的』デプロイ ～旧電カルP2Vと2026年サブプログラムへの報告～",
+        "recordingLink": "https://www.youtube.com/watch?v=ear_7aMydvI&list=PLB_Uknjmq3oc"
+      },
+      {
+        "name": "Atomu Otsuka",
+        "link": "https://vexpert.vmware.com/directory/11702",
+        "title": "VCF管理サービスって何すか",
+        "recordingLink": "https://www.youtube.com/watch?v=LpNbdKqtzE8&list=PLB_Uknjmq3oc"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "year": 2026,
+    "date": "05月20日（水）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/393541/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix",
+    "speakers": [
+      {
+        "name": "Ikuma MINAGAWA",
+        "link": "https://vexpert.vmware.com/directory/11443",
+        "title": "技書博参戦記",
+        "recordingLink": "https://www.youtube.com/watch?v=uHdzspeHjtQ&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix"
+      },
+      {
+        "name": "Hiroshi Yamaguchi",
+        "title": "vExpert 落選した俺の話聞きたい？",
+        "recordingLink": "https://www.youtube.com/watch?v=q63wI9V-NcU&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix"
+      },
+      {
+        "name": "Sho Mayama",
+        "link": "https://vexpert.vmware.com/directory/13255",
+        "title": "VCF 9.1 Automation で始めるやさしいコンテナ基盤 kubectlなしで始めるおうちコンテナ入門編",
+        "recordingLink": "https://www.youtube.com/watch?v=_uuNBx9X8nE&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805",
+        "title": "Go to vExpert Mk-Ⅹ / Subprogram",
+        "recordingLink": "https://www.youtube.com/watch?v=6T9EnrMH9Xc&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521",
+        "title": "ESX 上の Cloud-init。（6日後にはじめる Ubuntu）",
+        "recordingLink": "https://www.youtube.com/watch?v=rwX8dGcDU5I&list=PLo45fa-pfArs3F_bx2RkErvQNHQ3DY_ix"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "year": 2026,
+    "date": "04月22日（水）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/390652/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLo45fa-pfArvQN0soU1MLENk2tZgcxle1",
+    "speakers": [
+      {
+        "name": "Masahiro Irie",
+        "link": "https://vexpert.vmware.com/directory/3845",
+        "title": "vSphere 仮想マシンにおけるセキュアブート証明書有効期限の件",
+        "recordingLink": "https://www.youtube.com/watch?v=eOCZF_PuYqA&list=PLo45fa-pfArvQN0soU1MLENk2tZgcxle1"
+      },
+      {
+        "name": "Ikuma MINAGAWA",
+        "link": "https://vexpert.vmware.com/directory/11443",
+        "title": "Japan VMUG の薄い本 第2弾",
+        "recordingLink": "https://www.youtube.com/watch?v=ey6-scAG5yM&list=PLo45fa-pfArvQN0soU1MLENk2tZgcxle1"
+      },
+      {
+        "name": "Tomoyuki Kawata",
+        "link": "https://vexpert.vmware.com/directory/3982",
+        "title": "電子カルテ更改: P2Vで学んだ現実 〜vCenter Converterが止まった理由は\"技術\"ではなかった〜",
+        "recordingLink": "https://www.youtube.com/watch?v=OP60U_21-nk&list=PLo45fa-pfArvQN0soU1MLENk2tZgcxle1"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521",
+        "title": "Google Antigravity で仮想マシンの Secure Boot 集計レポートを生成してみる",
+        "recordingLink": "https://www.youtube.com/watch?v=mOsP5MzsnQI&list=PLo45fa-pfArvQN0soU1MLENk2tZgcxle1"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "year": 2026,
+    "date": "03月30日（月）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/387505/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLo45fa-pfArvrKUeaAlkj81UFhsuMo7bq",
+    "speakers": [
+      {
+        "name": "Daisuke Yajima",
+        "link": "https://vexpert.vmware.com/directory/2721",
+        "title": "最近ホームラボ環境で遭遇したことまとめ",
+        "recordingLink": "https://www.youtube.com/watch?v=f2ieBzU-4ME&list=PLo45fa-pfArvrKUeaAlkj81UFhsuMo7bq"
+      },
+      {
+        "name": "Taiki Tonogai",
+        "link": "https://vexpert.vmware.com/directory/11856",
+        "title": "最短で合格を目指す！VCAP 学習法",
+        "recordingLink": "https://www.youtube.com/watch?v=X2pGUksm2JM&list=PLo45fa-pfArvrKUeaAlkj81UFhsuMo7bq"
+      },
+      {
+        "name": "Kan Chiyoda",
+        "link": "https://vexpert.vmware.com/directory/3910",
+        "title": "VCF Automation All Apps Orgs ざっくり把握する構築と使い方",
+        "recordingLink": "https://www.youtube.com/watch?v=fa3v-waEOVg&list=PLo45fa-pfArvrKUeaAlkj81UFhsuMo7bq"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805",
+        "title": "Go to vExpert Mk-IX",
+        "recordingLink": "https://www.youtube.com/watch?v=181lNRBq9sE&list=PLo45fa-pfArvrKUeaAlkj81UFhsuMo7bq"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521",
+        "title": "VMUG Advantage の VCF ホームラボ用ライセンス更新について。（2026年版）",
+        "recordingLink": "https://www.youtube.com/watch?v=FKu3NgVDxjg&list=PLo45fa-pfArvrKUeaAlkj81UFhsuMo7bq"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "year": 2026,
+    "date": "01月07日（水）",
+    "time": "18:00 - 20:00",
+    "title": "",
+    "eventLink": "https://vmug-jp.connpass.com/event/379989/",
+    "recordingLink": "https://www.youtube.com/playlist?list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0",
+    "speakers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521",
+        "title": "はじめに（と vExperts Advent Calendar 2025 1日目の投稿）",
+        "recordingLink": "https://www.youtube.com/watch?v=Aw4LdJwPNLg&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0"
+      },
+      {
+        "name": "Ikuma MINAGAWA",
+        "link": "https://vexpert.vmware.com/directory/11443",
+        "title": "断腸の思いで vSpere から Proxmox VE に乗り換える",
+        "recordingLink": "https://www.youtube.com/watch?v=8xDfFpExSvs&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653",
+        "title": "VMware Avi Load Balancer 31.2.1",
+        "recordingLink": "https://www.youtube.com/watch?v=R8azlQrCT8s&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805",
+        "title": "「社内でAIを使いたい」プライベートAIについて調べてみた！",
+        "recordingLink": "https://www.youtube.com/watch?v=Qe_w1e3LWG4&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0"
+      },
+      {
+        "name": "Masahiro Irie",
+        "link": "https://vexpert.vmware.com/directory/3845",
+        "title": "Triple VCP-VCF9 achiever になりました",
+        "recordingLink": "https://www.youtube.com/watch?v=DxyJNX0Be5k&list=PLo45fa-pfArtPO64M5F19UVLjPp6gVtT0"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Masato Narishige",
+        "link": "https://vexpert.vmware.com/directory/3805"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
+  }
+]
