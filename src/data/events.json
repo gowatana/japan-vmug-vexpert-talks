@@ -2658,7 +2658,12 @@
         "title": "おすすめ HOL と、HOL を使ったデモ"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2697,10 +2702,23 @@
       {
         "name": "Masaomi Kudo",
         "link": "https://vexpert.vmware.com/directory/482",
-        "title": "しくじり先生 俺みたいになるな！！"
+        "title": "しくじり先生 俺みたいになるな！！ Workspace ONEとか知らないのにVMware SASEを試しちゃったvExpertのお話。"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2713,13 +2731,30 @@
     "recordingLink": "https://www.youtube.com/playlist?list=PLo45fa-pfArscQ-LCMMIaBFmfVxbI0mT-",
     "speakers": [
       {
+        "name": "Koichi Takeda (vExpertをめざす人 枠)",
+        "link": "https://vexpert.vmware.com/directory/8898",
+        "title": "VMware Cloud on AWS と相性抜群、AWS ネイティブサービス連携",
+        "recordingLink": "https://www.youtube.com/watch?v=9N2O2nNTGHo"
+      },
+      {
         "name": "Eri Teshima",
         "link": "https://vexpert.vmware.com/directory/7439",
         "title": "Tanzu Kubernetes Grid 1.4 - 新機能インストールにトライ",
         "recordingLink": "https://www.youtube.com/watch?v=7-KjJ771UNY"
+      },
+      {
+        "name": "Yamato Sakai, Kaz Igarashi, Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/7439",
+        "title": "vExpert パネル 「2021年の振り返りと vExpert 2022に向けて」",
+        "recordingLink": "https://www.youtube.com/watch?v=sjvqTuozlak"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2750,7 +2785,20 @@
         "recordingLink": "https://www.youtube.com/watch?v=RvOQh7UP-SE"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2781,8 +2829,26 @@
         "recordingLink": "https://www.youtube.com/watch?v=c1BHplirabo"
       }
     ],
-    "moderators": [],
-    "organizers": []
+    "moderators": [
+      {
+        "name": "Atsushi Kimura",
+        "link": "https://vexpert.vmware.com/directory/8813"
+      },
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      }
+    ],
+    "organizers": [
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
   },
   {
     "number": 6,
@@ -2812,7 +2878,20 @@
         "recordingLink": "https://www.youtube.com/watch?v=dIE39Rax3_Y"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2843,7 +2922,20 @@
         "recordingLink": "https://www.youtube.com/watch?v=eABRJCHZgMU&t=3113s"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2880,7 +2972,20 @@
         "recordingLink": "https://www.youtube.com/watch?v=Lb2kCQuJ4UM"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2905,7 +3010,20 @@
         "recordingLink": "https://www.youtube.com/watch?v=PjWZ7LM0xqA"
       }
     ],
-    "moderators": [],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2913,11 +3031,39 @@
     "year": 2020,
     "date": "2020年8月28日（金）",
     "time": "18:00 - 20:00",
-    "title": "",
+    "title": "EUC",
     "eventLink": "",
-    "recordingLink": "",
-    "speakers": [],
-    "moderators": [],
+    "recordingLink": "https://www.youtube.com/watch?v=bcm3nUDhFA8",
+    "speakers": [
+      {
+        "name": "Takuya Ichijima",
+        "link": "https://vexpert.vmware.com/directory/4604",
+        "title": "",
+        "recordingLink": "https://www.youtube.com/watch?v=bcm3nUDhFA8&t=89s"
+      },
+      {
+        "name": "Tsuneyuki Mitsugi",
+        "link": "https://vexpert.vmware.com/directory/488",
+        "title": "",
+        "recordingLink": "https://www.youtube.com/watch?v=bcm3nUDhFA8&t=1275s"
+      },
+      {
+        "name": "Kazuma Yamabe",
+        "link": "https://vexpert.vmware.com/directory/522",
+        "title": "",
+        "recordingLink": "https://www.youtube.com/watch?v=bcm3nUDhFA8&t=2416s"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
     "organizers": []
   },
   {
@@ -2927,9 +3073,42 @@
     "time": "18:00 - 20:00",
     "title": "",
     "eventLink": "",
-    "recordingLink": "",
-    "speakers": [],
-    "moderators": [],
-    "organizers": []
+    "recordingLink": "https://www.youtube.com/watch?v=fj5fYTod5Xk",
+    "speakers": [
+    {
+        "name": "",
+        "link": "",
+        "title": "How to become a VMware vExpert、vExpert パネル",
+        "recordingLink": "https://www.youtube.com/watch?v=fj5fYTod5Xk"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ],
+    "organizers": [
+            {
+        "name": "Go Watanabe",
+        "link": "https://vexpert.vmware.com/directory/521"
+      },
+      {
+        "name": "Yamato Sakai",
+        "link": "https://vexpert.vmware.com/directory/1668"
+      },
+      {
+        "name": "Kaz Igarashi",
+        "link": "https://vexpert.vmware.com/directory/1653"
+      }
+    ]
   }
 ]
